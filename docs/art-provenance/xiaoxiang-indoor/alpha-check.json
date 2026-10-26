@@ -1,0 +1,146 @@
+[
+  {
+    "file": "../../../_archive/20261026/assets/xiaoxiang-indoor-repaired/floor-v1-draft.png",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "visibleBounds": [
+      50,
+      149,
+      1622,
+      929
+    ],
+    "status": "draft"
+  },
+  {
+    "file": "../../../assets/scenes/xiaoxiang/indoor/textures/floor.png",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "visibleBounds": [
+      53,
+      192,
+      1620,
+      921
+    ],
+    "status": "pending_composite_review"
+  },
+  {
+    "file": "../../../assets/scenes/xiaoxiang/indoor/textures/wall-east.png",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "visibleBounds": [
+      1425,
+      11,
+      1672,
+      905
+    ],
+    "status": "pending_composite_review"
+  },
+  {
+    "file": "../../../assets/scenes/xiaoxiang/indoor/textures/wall-north.png",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "visibleBounds": [
+      12,
+      0,
+      1660,
+      327
+    ],
+    "status": "pending_composite_review"
+  },
+  {
+    "file": "../../../_archive/20261026/assets/xiaoxiang-indoor-repaired/wall-south-left-v1-draft.png",
+    "size": [
+      1602,
+      981
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "visibleBounds": [
+      31,
+      530,
+      1456,
+      966
+    ],
+    "status": "draft"
+  },
+  {
+    "file": "../../../assets/scenes/xiaoxiang/indoor/textures/wall-south-left.png",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "visibleBounds": [
+      27,
+      660,
+      889,
+      923
+    ],
+    "status": "pending_composite_review"
+  },
+  {
+    "file": "../../../_archive/20261026/assets/xiaoxiang-indoor-repaired/wall-south-right-v1-draft.png",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "visibleBounds": [
+      764,
+      616,
+      1661,
+      905
+    ],
+    "status": "draft"
+  },
+  {
+    "file": "../../../assets/scenes/xiaoxiang/indoor/textures/wall-west.png",
+    "size": [
+      1672,
+      941
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "visibleBounds": [
+      3,
+      6,
+      197,
+      911
+    ],
+    "status": "pending_composite_review"
+  }
+]

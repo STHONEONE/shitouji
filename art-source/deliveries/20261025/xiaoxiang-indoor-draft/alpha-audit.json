@@ -1,0 +1,142 @@
+{
+  "count": 15,
+  "all_alpha_tests_passed": true,
+  "warnings": [],
+  "files": [
+    {
+      "id": "bed",
+      "dims": [
+        332,
+        279
+      ],
+      "transparent_pct": 9.3,
+      "alpha_webp_match": true
+    },
+    {
+      "id": "shelf",
+      "dims": [
+        202,
+        193
+      ],
+      "transparent_pct": 7.3,
+      "alpha_webp_match": true
+    },
+    {
+      "id": "screen",
+      "dims": [
+        232,
+        204
+      ],
+      "transparent_pct": 29.2,
+      "alpha_webp_match": true
+    },
+    {
+      "id": "qin-table",
+      "dims": [
+        253,
+        97
+      ],
+      "transparent_pct": 55.6,
+      "alpha_webp_match": true
+    },
+    {
+      "id": "qin-chair",
+      "dims": [
+        43,
+        65
+      ],
+      "transparent_pct": 14.3,
+      "alpha_webp_match": true
+    },
+    {
+      "id": "desk",
+      "dims": [
+        301,
+        145
+      ],
+      "transparent_pct": 41.0,
+      "alpha_webp_match": true
+    },
+    {
+      "id": "study-chair",
+      "dims": [
+        64,
+        75
+      ],
+      "transparent_pct": 13.1,
+      "alpha_webp_match": true
+    },
+    {
+      "id": "tea-table",
+      "dims": [
+        163,
+        136
+      ],
+      "transparent_pct": 35.5,
+      "alpha_webp_match": true
+    },
+    {
+      "id": "tea-stool-01",
+      "dims": [
+        51,
+        59
+      ],
+      "transparent_pct": 14.9,
+      "alpha_webp_match": true
+    },
+    {
+      "id": "tea-stool-02",
+      "dims": [
+        50,
+        65
+      ],
+      "transparent_pct": 15.4,
+      "alpha_webp_match": true
+    },
+    {
+      "id": "tea-stool-03",
+      "dims": [
+        51,
+        64
+      ],
+      "transparent_pct": 17.1,
+      "alpha_webp_match": true
+    },
+    {
+      "id": "qin-planter",
+      "dims": [
+        46,
+        68
+      ],
+      "transparent_pct": 32.8,
+      "alpha_webp_match": true
+    },
+    {
+      "id": "door-left",
+      "dims": [
+        59,
+        139
+      ],
+      "transparent_pct": 32.4,
+      "alpha_webp_match": true
+    },
+    {
+      "id": "door-right",
+      "dims": [
+        52,
+        144
+      ],
+      "transparent_pct": 29.4,
+      "alpha_webp_match": true
+    },
+    {
+      "id": "floor-lamp",
+      "dims": [
+        48,
+        152
+      ],
+      "transparent_pct": 39.2,
+      "alpha_webp_match": true
+    }
+  ]
+}

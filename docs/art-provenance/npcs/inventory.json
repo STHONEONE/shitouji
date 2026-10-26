@@ -1,0 +1,114 @@
+[
+  {
+    "id": "jiamu",
+    "name": "贾母",
+    "file": "assets/characters/npcs/textures/jiamu.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": "wangfuren",
+    "name": "王夫人",
+    "file": "assets/characters/npcs/textures/wangfuren.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": "miaoyu",
+    "name": "妙玉",
+    "file": "assets/characters/npcs/textures/miaoyu.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": "xiangyun",
+    "name": "史湘云",
+    "file": "assets/characters/npcs/textures/xiangyun.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": "xifeng",
+    "name": "王熙凤",
+    "file": "assets/characters/npcs/textures/xifeng.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": "xichun",
+    "name": "贾惜春",
+    "file": "assets/characters/npcs/textures/xichun.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": "tanchun",
+    "name": "贾探春",
+    "file": "assets/characters/npcs/textures/tanchun.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": "xiren",
+    "name": "袭人",
+    "file": "assets/characters/npcs/textures/xiren.webp",
+    "size": [
+      1448,
+      1086
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  }
+]

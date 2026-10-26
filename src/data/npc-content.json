@@ -1,0 +1,442 @@
+{
+  "baoyu": {
+    "id": "baoyu",
+    "name": "贾宝玉",
+    "home": "yihong",
+    "topics": [
+      {
+        "title": "怡红日常",
+        "text": "原著写宝玉迁入怡红院，闲时读书、写字，也与姊妹往来。眼前这一处安静，正可说起那些平常日子。",
+        "chapter": 23,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第023回"
+      },
+      {
+        "title": "窗前诗书",
+        "text": "“妹妹可曾读书？”初见时一句问书，已经把两人的话引向了纸墨之间。",
+        "chapter": 3,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      },
+      {
+        "title": "旧相识",
+        "text": "“心里就算是旧相识，今日只作远别重逢，亦未为不可。”说起这句话，亲近与珍重便在其中。",
+        "chapter": 3,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      }
+    ],
+    "stories": [
+      {
+        "id": "baoyu-1",
+        "title": "怡红书声",
+        "text": "第二十三回写迁园后的日常。读书、写字和窗前停留，并不是一道要交差的功课；你愿意看书架，或只听这一段，都可以。",
+        "chapter": 23,
+        "focus": "shelf",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第023回"
+      },
+      {
+        "id": "baoyu-2",
+        "title": "帕上心绪",
+        "text": "第三十四回的旧帕传意，是宝黛之间一段含蓄心事。",
+        "chapter": 34,
+        "focus": "desk",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第034回"
+      }
+    ],
+    "deepExtra": "第三回里，那一句“旧相识”，把初见说成远别重逢。亲近并非换来的奖赏，读来更见珍重。"
+  },
+  "baochai": {
+    "id": "baochai",
+    "name": "薛宝钗",
+    "home": "hengwu",
+    "topics": [
+      {
+        "title": "蘅芜清坐",
+        "text": "原著中宝钗住蘅芜苑；到第四十五回，钗黛说体己话，彼此的理解更近了一层。此处谈起的是这样的日常关照。",
+        "chapter": 45,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第045回"
+      },
+      {
+        "title": "书中分寸",
+        "text": "第四十二回，宝钗与黛玉说起读书之事。",
+        "chapter": 42,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第042回"
+      },
+      {
+        "title": "体己话",
+        "text": "第四十五回写钗黛互诉心曲，宝钗关心黛玉的起居。",
+        "chapter": 45,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第045回"
+      }
+    ],
+    "stories": [
+      {
+        "id": "baochai-1",
+        "title": "蝶影旧事",
+        "text": "第二十七回，宝钗在四月芒种追蝶到滴翠亭。",
+        "chapter": 27,
+        "focus": "white-tree",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第027回"
+      },
+      {
+        "id": "baochai-2",
+        "title": "一份关照",
+        "text": "第四十五回写宝钗探望黛玉、说体己话并遣人送燕窝。",
+        "chapter": 45,
+        "focus": "tea",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第045回"
+      }
+    ],
+    "deepExtra": "第四十五回钗黛互诉心曲，误解渐渐松动。关照并不是一句空话，也在随后送来的东西里。"
+  },
+  "xiren": {
+    "id": "xiren",
+    "name": "袭人",
+    "home": "yihong",
+    "topics": [
+      {
+        "title": "怡红起居",
+        "text": "第十九回里，袭人家去吃年茶，宝玉因她爱吃酥酪，特意命人留着。起居小事里，也有人与人的挂念。",
+        "chapter": 19,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第019回"
+      },
+      {
+        "title": "说起读书",
+        "text": "“只是在老爷跟前或在别人跟前，你别只管批驳诮谤。”这是袭人劝宝玉读书时的话，读来可见她做事的分寸。",
+        "chapter": 19,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第019回"
+      },
+      {
+        "title": "相处日常",
+        "text": "袭人与宝玉说日常规劝，话里既有体贴，也有自己的打算。",
+        "chapter": 19,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第019回"
+      }
+    ],
+    "stories": [
+      {
+        "id": "xiren-1",
+        "title": "留下的酥酪",
+        "text": "宝玉记着袭人喜欢酥酪，命人留与她。",
+        "chapter": 19,
+        "focus": "tea",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第019回"
+      },
+      {
+        "id": "xiren-2",
+        "title": "灯下规劝",
+        "text": "袭人谈起宝玉在人前读书、说话的分寸。看一看书案，或直接读这段旧事，都不改变后面的时间流转。",
+        "chapter": 19,
+        "focus": "desk",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第019回"
+      }
+    ],
+    "deepExtra": "第十九回的规劝里，她既想着宝玉，也想着往后日子如何安稳。日常细心中，自有她自己的处境。"
+  },
+  "xiangyun": {
+    "id": "xiangyun",
+    "name": "史湘云",
+    "home": null,
+    "topics": [
+      {
+        "title": "爽朗相见",
+        "text": "第三十一回湘云与翠缕一路说笑，话题从身边的小物起，越说越有兴味。她的爽快，也在这些日常问答里。",
+        "chapter": 31,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第031回"
+      },
+      {
+        "title": "物理小谈",
+        "text": "湘云与翠缕谈阴阳，从天与地说到身边事物。",
+        "chapter": 31,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第031回"
+      },
+      {
+        "title": "麒麟小记",
+        "text": "第三十一回围绕金麒麟写人物往来。",
+        "chapter": 31,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第031回"
+      }
+    ],
+    "stories": [
+      {
+        "id": "xiangyun-1",
+        "title": "一路闲谈",
+        "text": "顺着窗边的花木，读湘云与翠缕谈身边事物的原著片段。愿意细想或只听一句，都不受限制。",
+        "chapter": 31,
+        "focus": "window",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第031回"
+      },
+      {
+        "id": "xiangyun-2",
+        "title": "麒麟一页",
+        "text": "金麒麟牵起人物相遇的一段小事。",
+        "chapter": 31,
+        "focus": "shelf",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第031回"
+      }
+    ],
+    "deepExtra": "第三十一回里，一件小物便引出许多问答。湘云说得爽快，翠缕问得认真，两人的性情都留在其中。"
+  },
+  "tanchun": {
+    "id": "tanchun",
+    "name": "贾探春",
+    "home": null,
+    "topics": [
+      {
+        "title": "理事分寸",
+        "text": "第五十五回，探春代管家事，先问旧例，再辨事情。她的认真，是不肯含混地把日子混过去。",
+        "chapter": 55,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第055回"
+      },
+      {
+        "title": "书理与事理",
+        "text": "第五十六回写探春与宝钗等商议园中事务，学问与日常并非全不相干。",
+        "chapter": 56,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第056回"
+      },
+      {
+        "title": "花木有人照料",
+        "text": "第五十六回的花木料理，重在让事情有人用心照看。",
+        "chapter": 56,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第056回"
+      }
+    ],
+    "stories": [
+      {
+        "id": "tanchun-1",
+        "title": "翻看旧例",
+        "text": "借书案回读探春查旧账、问成例的情境。",
+        "chapter": 55,
+        "focus": "desk",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第055回"
+      },
+      {
+        "id": "tanchun-2",
+        "title": "花木有主",
+        "text": "看看院中草木，读第五十六回兴利除弊时的商议。",
+        "chapter": 56,
+        "focus": "herbs",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第056回"
+      }
+    ],
+    "deepExtra": "“我但凡是个男人，可以出得去，我必早走了，立一番事业。”第五十五回这句话，写出她不甘被处境困住的心。"
+  },
+  "xichun": {
+    "id": "xichun",
+    "name": "贾惜春",
+    "home": null,
+    "topics": [
+      {
+        "title": "说起画事",
+        "text": "第四十二回，众人谈到惜春画园子，画具、工夫和细看景物，都不是随手一笔就能略过的。",
+        "chapter": 42,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第042回"
+      },
+      {
+        "title": "纸墨之间",
+        "text": "原著细写作画所需的纸墨颜料。",
+        "chapter": 42,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第042回"
+      },
+      {
+        "title": "慢慢看景",
+        "text": "惜春作画的情境里，有留心看景和从容下笔的意思。",
+        "chapter": 42,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第042回"
+      }
+    ],
+    "stories": [
+      {
+        "id": "xichun-1",
+        "title": "画具小记",
+        "text": "在书案边读画具筹备的一页。",
+        "chapter": 42,
+        "focus": "desk",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第042回"
+      },
+      {
+        "id": "xichun-2",
+        "title": "窗前取景",
+        "text": "从窗光里读惜春画园的情境。",
+        "chapter": 42,
+        "focus": "window",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第042回"
+      }
+    ],
+    "deepExtra": "第四十二回的画事，牵着许多细看的工夫。画具可以列出来，景物却仍要自己慢慢看。"
+  },
+  "xifeng": {
+    "id": "xifeng",
+    "name": "王熙凤",
+    "home": null,
+    "topics": [
+      {
+        "title": "一席关照",
+        "text": "第三回，凤姐迎黛玉，问起衣物、起居，也吩咐人照料随行的人。人物的利落，在一连串安排里。",
+        "chapter": 3,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      },
+      {
+        "title": "条理与纸笔",
+        "text": "第十三回写凤姐接过对牌、先理出事务的头绪。她把事情分清，才预备着手料理。",
+        "chapter": 13,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第013回"
+      },
+      {
+        "title": "忙里留心",
+        "text": "从迎客到理事，凤姐话说得快，手头事情也多。",
+        "chapter": 3,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      }
+    ],
+    "stories": [
+      {
+        "id": "xifeng-1",
+        "title": "起居安排",
+        "text": "回看初迎黛玉时，凤姐问起行李起居、吩咐照料的一段。物件在眼前，旧事留在纸上。",
+        "chapter": 3,
+        "focus": "bed",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      },
+      {
+        "id": "xifeng-2",
+        "title": "理事头绪",
+        "text": "第十三回末，凤姐先想到人口混杂、事无专执、需用过费等几件事，准备逐项理清。",
+        "chapter": 13,
+        "focus": "desk",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第013回"
+      }
+    ],
+    "deepExtra": "第三回一连串问候和安排，既见能干，也见她应对众人的手段。读人物，仍要把这些面目放在一起看。"
+  },
+  "miaoyu": {
+    "id": "miaoyu",
+    "name": "妙玉",
+    "home": null,
+    "topics": [
+      {
+        "title": "一杯清茶",
+        "text": "“一杯为品。”第四十一回妙玉论茶，重在细品。",
+        "chapter": 41,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第041回"
+      },
+      {
+        "title": "器物与分寸",
+        "text": "第四十一回写妙玉待客时的茶器与言谈。",
+        "chapter": 41,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第041回"
+      },
+      {
+        "title": "梅雪旧记",
+        "text": "原著写起梅花上收的雪与茶味。",
+        "chapter": 41,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第041回"
+      }
+    ],
+    "stories": [
+      {
+        "id": "miaoyu-1",
+        "title": "杯中清味",
+        "text": "在茶桌边读妙玉品茶的一段。",
+        "chapter": 41,
+        "focus": "tea",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第041回"
+      },
+      {
+        "id": "miaoyu-2",
+        "title": "梅雪一页",
+        "text": "借窗前一段清光，补读梅雪与茶的旧记；这里仍不开放她的专属住所。",
+        "chapter": 41,
+        "focus": "window",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第041回"
+      }
+    ],
+    "deepExtra": "第四十一回的茶器和言谈里，清与傲并在。人物的棱角留在原著中，也留给读者自己体会。"
+  },
+  "jiamu": {
+    "id": "jiamu",
+    "name": "贾母",
+    "home": null,
+    "topics": [
+      {
+        "title": "初见相迎",
+        "text": "第三回，贾母见黛玉便搂在怀里，问起身体，又为她安顿住处。长辈的关切，都在细处。",
+        "chapter": 3,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      },
+      {
+        "title": "小窗问书",
+        "text": "贾母问黛玉念何书。",
+        "chapter": 3,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      },
+      {
+        "title": "牵挂",
+        "text": "原著写贾母念及女儿，见外孙女而伤感。",
+        "chapter": 3,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      }
+    ],
+    "stories": [
+      {
+        "id": "jiamu-1",
+        "title": "问起身体",
+        "text": "床边读初见时的起居关怀。",
+        "chapter": 3,
+        "focus": "bed",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      },
+      {
+        "id": "jiamu-2",
+        "title": "问书一页",
+        "text": "借书架读贾母与黛玉问书的一段。",
+        "chapter": 3,
+        "focus": "shelf",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      }
+    ],
+    "deepExtra": "第三回，贾母因想起女儿而搂住黛玉落泪。那份照拂里，亲情与失去的人始终相连。"
+  },
+  "wangfuren": {
+    "id": "wangfuren",
+    "name": "王夫人",
+    "home": null,
+    "topics": [
+      {
+        "title": "起居安顿",
+        "text": "第三回，王夫人携黛玉说话，交代姊妹相处与起居安排。长辈的话有照应，也有家中的规矩。",
+        "chapter": 3,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      },
+      {
+        "title": "念书认字",
+        "text": "王夫人说起姊妹一处念书认字、学针线。",
+        "chapter": 3,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      },
+      {
+        "title": "日常嘱咐",
+        "text": "“少什么东西，你只管和他说就是了。”",
+        "chapter": 3,
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      }
+    ],
+    "stories": [
+      {
+        "id": "wangfuren-1",
+        "title": "安顿一日",
+        "text": "在床边补读初入府时的安排，不产生衣物或生活资源消耗。",
+        "chapter": 3,
+        "focus": "bed",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      },
+      {
+        "id": "wangfuren-2",
+        "title": "一席家常",
+        "text": "茶桌边读第三回长辈的嘱咐。",
+        "chapter": 3,
+        "focus": "tea",
+        "source": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回"
+      }
+    ],
+    "deepExtra": "第三回的起居嘱咐，一面是照应，一面是家中的分寸。读她的言谈，也看她安置人的举动。"
+  }
+}

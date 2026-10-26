@@ -1,0 +1,327 @@
+{
+  "recordedDate": "2026-10-26",
+  "purpose": "接手素材索引；读取现有配置，不替代Alpha或浏览器验收",
+  "entry": {
+    "file": "outputs/潇湘馆-庭院与内室-模块03.html",
+    "bytes": 116624548,
+    "sha256": "A29DCADBFD7BDF3DF02C3771D880CF2B2E0D412C45C21DA48920660991D71D65"
+  },
+  "roomItemCount": 35,
+  "restoredItemCount": 10,
+  "assets": [
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-floor",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/floor.png",
+      "exists": true,
+      "bytes": 1261498,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-rug",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/rug.png",
+      "exists": true,
+      "bytes": 2179531,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-wall-north",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-north.png",
+      "exists": true,
+      "bytes": 672226,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-wall-west",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-west.png",
+      "exists": true,
+      "bytes": 228460,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-wall-east",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-east.png",
+      "exists": true,
+      "bytes": 269384,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-wall-south-left",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-south-left.png",
+      "exists": true,
+      "bytes": 423456,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-wall-south-right",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-south-right.png",
+      "exists": true,
+      "bytes": 489518,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-bed",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/bed.png",
+      "exists": true,
+      "bytes": 199724,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-shelf",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/shelf.png",
+      "exists": true,
+      "bytes": 77389,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-screen",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/screen.png",
+      "exists": true,
+      "bytes": 1741599,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-desk",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/desk.png",
+      "exists": true,
+      "bytes": 1244491,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-study-chair",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/study-chair.png",
+      "exists": true,
+      "bytes": 998297,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-qin",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/qin-table.png",
+      "exists": true,
+      "bytes": 804872,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-qin-chair",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/qin-stool.png",
+      "exists": true,
+      "bytes": 715062,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-tea",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/tea-table.png",
+      "exists": true,
+      "bytes": 1284384,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-tea-stool-west",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/tea-stool.png",
+      "exists": true,
+      "bytes": 992098,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-tea-stool-east",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/tea-stool.png",
+      "exists": true,
+      "bytes": 992098,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-tea-stool-south",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/tea-stool.png",
+      "exists": true,
+      "bytes": 992098,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-tea-chair-north",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/tea-chair-north.png",
+      "exists": true,
+      "bytes": 11218,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-lamp-entry",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/floor-lamp.png",
+      "exists": true,
+      "bytes": 16414,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-lamp-east",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/floor-lamp.png",
+      "exists": true,
+      "bytes": 16414,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-vase",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/qin-planter.png",
+      "exists": true,
+      "bytes": 9514,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-narcissus",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/qin-planter.png",
+      "exists": true,
+      "bytes": 9514,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-bedside-planter",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/qin-planter.png",
+      "exists": true,
+      "bytes": 9514,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-door-left",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/door-left.png",
+      "exists": true,
+      "bytes": 20251,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-door-right",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/door-right.png",
+      "exists": true,
+      "bytes": 19711,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-scroll",
+      "file": "assets/scenes/shared/spring-objects.png",
+      "exists": true,
+      "bytes": 1652063,
+      "review": "approved"
+    },
+    {
+      "scope": "xiaoxiang-indoor",
+      "id": "xiao-layer-restored-decor",
+      "file": "assets/scenes/xiaoxiang/indoor/textures/decor-atlas.png",
+      "exists": true,
+      "bytes": 2073266,
+      "review": "approved"
+    },
+    {
+      "scope": "npc",
+      "id": "baoyu",
+      "file": "assets/characters/npcs/textures/baoyu-walk.png",
+      "exists": true,
+      "bytes": 1845015,
+      "hasAlpha": true,
+      "lossless": true
+    },
+    {
+      "scope": "npc",
+      "id": "baochai",
+      "file": "assets/characters/npcs/textures/baochai-walk.png",
+      "exists": true,
+      "bytes": 2020038,
+      "hasAlpha": true,
+      "lossless": true
+    },
+    {
+      "scope": "npc",
+      "id": "xiren",
+      "file": "assets/characters/npcs/textures/xiren.webp",
+      "exists": true,
+      "bytes": 886960,
+      "hasAlpha": true,
+      "lossless": true
+    },
+    {
+      "scope": "npc",
+      "id": "xiangyun",
+      "file": "assets/characters/npcs/textures/xiangyun.webp",
+      "exists": true,
+      "bytes": 1463780,
+      "hasAlpha": true,
+      "lossless": true
+    },
+    {
+      "scope": "npc",
+      "id": "tanchun",
+      "file": "assets/characters/npcs/textures/tanchun.webp",
+      "exists": true,
+      "bytes": 1236194,
+      "hasAlpha": true,
+      "lossless": true
+    },
+    {
+      "scope": "npc",
+      "id": "xichun",
+      "file": "assets/characters/npcs/textures/xichun.webp",
+      "exists": true,
+      "bytes": 1026330,
+      "hasAlpha": true,
+      "lossless": true
+    },
+    {
+      "scope": "npc",
+      "id": "xifeng",
+      "file": "assets/characters/npcs/textures/xifeng.webp",
+      "exists": true,
+      "bytes": 1352814,
+      "hasAlpha": true,
+      "lossless": true
+    },
+    {
+      "scope": "npc",
+      "id": "miaoyu",
+      "file": "assets/characters/npcs/textures/miaoyu.webp",
+      "exists": true,
+      "bytes": 1020074,
+      "hasAlpha": true,
+      "lossless": true
+    },
+    {
+      "scope": "npc",
+      "id": "jiamu",
+      "file": "assets/characters/npcs/textures/jiamu.webp",
+      "exists": true,
+      "bytes": 1156370,
+      "hasAlpha": true,
+      "lossless": true
+    },
+    {
+      "scope": "npc",
+      "id": "wangfuren",
+      "file": "assets/characters/npcs/textures/wangfuren.webp",
+      "exists": true,
+      "bytes": 1096314,
+      "hasAlpha": true,
+      "lossless": true
+    }
+  ]
+}

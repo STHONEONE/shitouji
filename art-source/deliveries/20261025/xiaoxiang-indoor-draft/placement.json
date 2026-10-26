@@ -1,0 +1,468 @@
+{
+  "scene": "xiaoxiang-indoor",
+  "world_size": [
+    1672,
+    941
+  ],
+  "status": "DRAFT_NEEDS_VISUAL_APPROVAL",
+  "reference": "中式书房暖阳雅室.png",
+  "objects": [
+    {
+      "id": "bed",
+      "layer": "occluder",
+      "x": 352,
+      "baseY": 370,
+      "image": "bed.webp",
+      "png": "../../../../assets/scenes/xiaoxiang/indoor/textures/bed.png",
+      "base_rect": [
+        180,
+        350,
+        340,
+        22
+      ],
+      "anchor_px": [
+        170,
+        284
+      ],
+      "source_crop_box_xyxy": [
+        182,
+        86,
+        514,
+        365
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    },
+    {
+      "id": "shelf",
+      "layer": "occluder",
+      "x": 1158,
+      "baseY": 283,
+      "image": "shelf.webp",
+      "png": "../../../../assets/scenes/xiaoxiang/indoor/textures/shelf.png",
+      "base_rect": [
+        1059,
+        266,
+        202,
+        17
+      ],
+      "anchor_px": [
+        99,
+        193
+      ],
+      "source_crop_box_xyxy": [
+        1059,
+        90,
+        1261,
+        283
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    },
+    {
+      "id": "screen",
+      "layer": "occluder",
+      "x": 1450,
+      "baseY": 536,
+      "image": "screen.webp",
+      "png": "screen.png",
+      "base_rect": [
+        1330,
+        516,
+        240,
+        23
+      ],
+      "anchor_px": [
+        113,
+        201
+      ],
+      "source_crop_box_xyxy": [
+        1337,
+        335,
+        1569,
+        539
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    },
+    {
+      "id": "qin-table",
+      "layer": "y",
+      "x": 870,
+      "baseY": 330,
+      "image": "qin-table.webp",
+      "png": "qin-table.png",
+      "base_rect": [
+        751,
+        307,
+        254,
+        27
+      ],
+      "anchor_px": [
+        118,
+        93
+      ],
+      "source_crop_box_xyxy": [
+        752,
+        237,
+        1005,
+        334
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    },
+    {
+      "id": "qin-chair",
+      "layer": "y",
+      "x": 923,
+      "baseY": 360,
+      "image": "qin-chair.webp",
+      "png": "qin-chair.png",
+      "base_rect": [
+        903,
+        341,
+        43,
+        18
+      ],
+      "anchor_px": [
+        20,
+        66
+      ],
+      "seat_px": [
+        17,
+        13
+      ],
+      "seat_world": [
+        920,
+        307
+      ],
+      "source_crop_box_xyxy": [
+        903,
+        294,
+        946,
+        359
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    },
+    {
+      "id": "desk",
+      "layer": "y",
+      "x": 1054,
+      "baseY": 584,
+      "image": "desk.webp",
+      "png": "desk.png",
+      "base_rect": [
+        900,
+        529,
+        299,
+        55
+      ],
+      "anchor_px": [
+        155,
+        145
+      ],
+      "source_crop_box_xyxy": [
+        899,
+        439,
+        1200,
+        584
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    },
+    {
+      "id": "study-chair",
+      "layer": "y",
+      "x": 1033,
+      "baseY": 447,
+      "image": "study-chair.webp",
+      "png": "../../../../assets/scenes/xiaoxiang/indoor/textures/tea-chair-north.png",
+      "base_rect": [
+        1011,
+        411,
+        64,
+        33
+      ],
+      "anchor_px": [
+        22,
+        98
+      ],
+      "seat_px": [
+        25,
+        58
+      ],
+      "seat_world": [
+        1036,
+        407
+      ],
+      "source_crop_box_xyxy": [
+        1011,
+        349,
+        1075,
+        424
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    },
+    {
+      "id": "tea-table",
+      "layer": "y",
+      "x": 351,
+      "baseY": 580,
+      "image": "tea-table.webp",
+      "png": "tea-table.png",
+      "base_rect": [
+        282,
+        540,
+        153,
+        43
+      ],
+      "anchor_px": [
+        75,
+        139
+      ],
+      "source_crop_box_xyxy": [
+        276,
+        441,
+        439,
+        577
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    },
+    {
+      "id": "tea-stool-01",
+      "layer": "y",
+      "x": 232,
+      "baseY": 587,
+      "image": "tea-stool-01.webp",
+      "png": "tea-stool-01.png",
+      "base_rect": [
+        207,
+        551,
+        50,
+        28
+      ],
+      "anchor_px": [
+        26,
+        67
+      ],
+      "seat_px": [
+        24,
+        16
+      ],
+      "seat_world": [
+        230,
+        536
+      ],
+      "source_crop_box_xyxy": [
+        206,
+        520,
+        257,
+        579
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    },
+    {
+      "id": "tea-stool-02",
+      "layer": "y",
+      "x": 476,
+      "baseY": 587,
+      "image": "tea-stool-02.webp",
+      "png": "tea-stool-02.png",
+      "base_rect": [
+        451,
+        554,
+        51,
+        31
+      ],
+      "anchor_px": [
+        24,
+        67
+      ],
+      "seat_px": [
+        22,
+        17
+      ],
+      "seat_world": [
+        474,
+        537
+      ],
+      "source_crop_box_xyxy": [
+        452,
+        520,
+        502,
+        585
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    },
+    {
+      "id": "tea-stool-03",
+      "layer": "y",
+      "x": 339,
+      "baseY": 653,
+      "image": "tea-stool-03.webp",
+      "png": "tea-stool-03.png",
+      "base_rect": [
+        315,
+        618,
+        51,
+        30
+      ],
+      "anchor_px": [
+        24,
+        69
+      ],
+      "seat_px": [
+        23,
+        18
+      ],
+      "seat_world": [
+        338,
+        602
+      ],
+      "source_crop_box_xyxy": [
+        315,
+        584,
+        366,
+        648
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    },
+    {
+      "id": "qin-planter",
+      "layer": "y",
+      "x": 699,
+      "baseY": 282,
+      "image": "qin-planter.webp",
+      "png": "../../../../assets/scenes/xiaoxiang/indoor/textures/qin-planter.png",
+      "base_rect": [
+        677,
+        263,
+        46,
+        24
+      ],
+      "anchor_px": [
+        22,
+        63
+      ],
+      "source_crop_box_xyxy": [
+        677,
+        219,
+        723,
+        287
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    },
+    {
+      "id": "door-left",
+      "layer": "occluder",
+      "x": 666,
+      "baseY": 835,
+      "image": "door-left.webp",
+      "png": "../../../../assets/scenes/xiaoxiang/indoor/textures/door-left.png",
+      "base_rect": [
+        652,
+        820,
+        58,
+        13
+      ],
+      "anchor_px": [
+        14,
+        143
+      ],
+      "source_crop_box_xyxy": [
+        652,
+        692,
+        711,
+        831
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    },
+    {
+      "id": "door-right",
+      "layer": "occluder",
+      "x": 984,
+      "baseY": 834,
+      "image": "door-right.webp",
+      "png": "../../../../assets/scenes/xiaoxiang/indoor/textures/door-right.png",
+      "base_rect": [
+        943,
+        805,
+        53,
+        16
+      ],
+      "anchor_px": [
+        40,
+        157
+      ],
+      "source_crop_box_xyxy": [
+        944,
+        677,
+        996,
+        821
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    },
+    {
+      "id": "floor-lamp",
+      "layer": "y",
+      "x": 579,
+      "baseY": 696,
+      "image": "floor-lamp.webp",
+      "png": "../../../../assets/scenes/xiaoxiang/indoor/textures/floor-lamp.png",
+      "base_rect": [
+        559,
+        675,
+        50,
+        23
+      ],
+      "anchor_px": [
+        19,
+        150
+      ],
+      "source_crop_box_xyxy": [
+        560,
+        546,
+        608,
+        698
+      ],
+      "base_rect_confidence": "manual estimate; requires browser validation",
+      "anchor_confidence": "manual estimate; original world registration requires confirmation",
+      "source_file": "中式书房暖阳雅室.png"
+    }
+  ],
+  "object_count": 15,
+  "details": "Images are digitally separated from the last approved-on-screen 1672x941 indoor illustration; the canonical assets/xiaoxiang-indoor-wide.png was not supplied. This batch is not the complete scene reconstruction.",
+  "missing": [
+    "ground",
+    "flat-decoration/rug",
+    "wall-north",
+    "wall-west",
+    "wall-east",
+    "wall-south-left",
+    "wall-south-right",
+    "additional planters and lamps"
+  ]
+}

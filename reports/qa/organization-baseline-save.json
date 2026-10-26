@@ -1,0 +1,251 @@
+{
+  "version": 1,
+  "scene": "indoor",
+  "x": 836,
+  "y": 807,
+  "dir": "up",
+  "petals": [
+    false,
+    false,
+    false
+  ],
+  "journey": {
+    "clock": {
+      "day": 6,
+      "slot": 4,
+      "season": "spring",
+      "elapsed": 0.016700000000000274,
+      "cycle": 0
+    },
+    "memory": {
+      "visits": 0,
+      "readIds": [],
+      "poemVisits": 0
+    },
+    "collections": {
+      "petals": [],
+      "notes": [
+        {
+          "id": "npc-story-baoyu-1",
+          "title": "贾宝玉 · 怡红书声",
+          "text": "第二十三回写迁园后的日常。读书、写字和窗前停留，并不是一道要交差的功课；你愿意看书架，或只听这一段，都可以。\n\n〔原著片段 · 第23回 · 补读〕"
+        },
+        {
+          "id": "organization-baseline",
+          "title": "整理前存档",
+          "text": "验证整理前的日期、人物与阅读记录在整理后仍可读取。"
+        }
+      ],
+      "poems": [],
+      "scores": [],
+      "quotes": []
+    },
+    "burial": {
+      "days": {}
+    },
+    "activities": {
+      "qin": 0,
+      "tea": 0,
+      "writing": 0,
+      "rest": 0
+    },
+    "extensions": {
+      "xiaoxiangArt": 1,
+      "residences": {
+        "current": "xiaoxiang",
+        "last": {
+          "xiaoxiang": {
+            "scene": "indoor",
+            "x": 836,
+            "y": 807,
+            "dir": "up"
+          }
+        },
+        "doors": {}
+      },
+      "view": {
+        "zoom": 1,
+        "autoFit": true
+      },
+      "npcs": {
+        "version": 1,
+        "people": {
+          "baoyu": {
+            "seconds": 0,
+            "visits": 0,
+            "topics": {},
+            "moving": false,
+            "dir": "down",
+            "waypoint": 1,
+            "pause": 2.9833,
+            "x": 630,
+            "y": 470,
+            "place": {
+              "home": "yihong",
+              "scene": "indoor",
+              "anchor": 0
+            },
+            "present": true,
+            "anim": 0.016700000000000274
+          },
+          "baochai": {
+            "seconds": 0,
+            "visits": 0,
+            "topics": {},
+            "moving": false,
+            "dir": "down",
+            "waypoint": 1,
+            "pause": 2.9833,
+            "x": 730,
+            "y": 490,
+            "place": {
+              "home": "hengwu",
+              "scene": "indoor",
+              "anchor": 0
+            },
+            "present": true,
+            "anim": 0.016700000000000274
+          },
+          "xiren": {
+            "seconds": 0,
+            "visits": 0,
+            "topics": {},
+            "moving": false,
+            "dir": "down",
+            "waypoint": 1,
+            "pause": 2.9833,
+            "x": 1020,
+            "y": 500,
+            "place": {
+              "home": "yihong",
+              "scene": "indoor",
+              "anchor": 1
+            },
+            "present": true,
+            "anim": 0.016700000000000274
+          },
+          "xiangyun": {
+            "seconds": 0,
+            "visits": 0,
+            "topics": {},
+            "moving": false,
+            "dir": "down",
+            "waypoint": 1,
+            "pause": 3,
+            "present": true,
+            "x": 590,
+            "y": 465,
+            "place": {
+              "home": "yihong",
+              "scene": "indoor",
+              "anchor": 0
+            }
+          },
+          "tanchun": {
+            "seconds": 0,
+            "visits": 0,
+            "topics": {},
+            "moving": false,
+            "dir": "down",
+            "waypoint": 1,
+            "pause": 3,
+            "present": true,
+            "x": 728,
+            "y": 465,
+            "place": {
+              "home": "xiaoxiang",
+              "scene": "indoor",
+              "anchor": 1
+            }
+          },
+          "xichun": {
+            "seconds": 0,
+            "visits": 0,
+            "topics": {},
+            "moving": false,
+            "dir": "down",
+            "waypoint": 0,
+            "pause": 0,
+            "present": false
+          },
+          "xifeng": {
+            "seconds": 0,
+            "visits": 0,
+            "topics": {},
+            "moving": false,
+            "dir": "down",
+            "waypoint": 0,
+            "pause": 0,
+            "present": false
+          },
+          "miaoyu": {
+            "seconds": 0,
+            "visits": 0,
+            "topics": {},
+            "moving": false,
+            "dir": "down",
+            "waypoint": 0,
+            "pause": 0,
+            "present": false
+          },
+          "jiamu": {
+            "seconds": 0,
+            "visits": 0,
+            "topics": {},
+            "moving": false,
+            "dir": "down",
+            "waypoint": 1,
+            "pause": 3,
+            "present": true,
+            "x": 781,
+            "y": 465,
+            "place": {
+              "home": "xiaoxiang",
+              "scene": "indoor",
+              "anchor": 2
+            }
+          },
+          "wangfuren": {
+            "seconds": 0,
+            "visits": 0,
+            "topics": {},
+            "moving": false,
+            "dir": "down",
+            "waypoint": 0,
+            "pause": 0,
+            "present": false
+          }
+        },
+        "readings": {
+          "baoyu-1": {
+            "day": 6,
+            "slot": 4,
+            "mode": "补读",
+            "style": "listen"
+          }
+        },
+        "encounters": {
+          "baoyu": {
+            "firstDay": 6
+          },
+          "baochai": {
+            "firstDay": 6
+          },
+          "xiren": {
+            "firstDay": 6
+          },
+          "xiangyun": {
+            "firstDay": 6
+          },
+          "tanchun": {
+            "firstDay": 6
+          },
+          "jiamu": {
+            "firstDay": 6
+          }
+        }
+      }
+    }
+  },
+  "extensions": {}
+}

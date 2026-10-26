@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "original_file_count": 391,
+  "all_original_files_preserved": true,
+  "archived": 26,
+  "image_keys_unchanged": 60,
+  "missing": [],
+  "bad_images": [],
+  "changed_game_sources": [],
+  "bad_published_data": [],
+  "broken_markdown_links": [],
+  "packages": [
+    {
+      "name": "character-poses-20261025",
+      "files": 79,
+      "matches": true
+    },
+    {
+      "name": "frame-review-20261025",
+      "files": 13,
+      "matches": true
+    }
+  ]
+}

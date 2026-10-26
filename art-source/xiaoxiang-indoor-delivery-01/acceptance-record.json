@@ -1,0 +1,136 @@
+{
+  "purpose": "替换烘焙家具，修复人物遮挡、床边穿模及坐躺对位",
+  "runtimeIntegrated": false,
+  "assets": [
+    {
+      "file": "bed.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "alphaExtrema": [
+        0,
+        254
+      ],
+      "transparentPercent": 42.04,
+      "status": "needs_visual_alignment"
+    },
+    {
+      "file": "../../assets/scenes/xiaoxiang/indoor/textures/desk.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "transparentPercent": 59.17,
+      "status": "needs_visual_alignment"
+    },
+    {
+      "file": "ground.png",
+      "size": [
+        1672,
+        941
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "transparentPercent": 13.67,
+      "status": "needs_visual_alignment"
+    },
+    {
+      "file": "../../assets/scenes/xiaoxiang/indoor/textures/qin-stool.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "transparentPercent": 75.4,
+      "status": "needs_visual_alignment"
+    },
+    {
+      "file": "../../assets/scenes/xiaoxiang/indoor/textures/qin-table.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "transparentPercent": 71.23,
+      "status": "needs_visual_alignment"
+    },
+    {
+      "file": "../../assets/scenes/xiaoxiang/indoor/textures/rug.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "transparentPercent": 33.81,
+      "status": "needs_visual_alignment"
+    },
+    {
+      "file": "../../assets/scenes/xiaoxiang/indoor/textures/screen.png",
+      "size": [
+        1086,
+        1448
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "transparentPercent": 48.39,
+      "status": "needs_visual_alignment"
+    },
+    {
+      "file": "../../assets/scenes/xiaoxiang/indoor/textures/study-chair.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "transparentPercent": 65.35,
+      "status": "needs_visual_alignment"
+    },
+    {
+      "file": "../../assets/scenes/xiaoxiang/indoor/textures/tea-stool.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "transparentPercent": 70.65,
+      "status": "needs_visual_alignment"
+    },
+    {
+      "file": "../../assets/scenes/xiaoxiang/indoor/textures/tea-table.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "transparentPercent": 61.92,
+      "status": "needs_visual_alignment"
+    }
+  ]
+}

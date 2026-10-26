@@ -1,0 +1,24 @@
+const {chromium}=require('C:/Users/Stone One/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const assert=require('node:assert/strict'),path=require('node:path'),{pathToFileURL}=require('node:url');
+const root=path.resolve(__dirname,'..'),url=pathToFileURL(path.join(root,'outputs/潇湘馆-庭院与内室-模块03.html')).href;
+(async()=>{let browser;try{
+ browser=await chromium.launch({executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',headless:true});
+ const page=await browser.newPage({viewport:{width:1280,height:900}}),errors=[];page.on('pageerror',e=>errors.push(e.stack));
+ await page.goto(url);await page.waitForFunction(()=>spring.ready);assert(await page.locator('#spring-title').isVisible());
+ await page.locator('#new-spring').click();assert.equal(await page.evaluate(()=>spring.mode),'play');
+ await page.locator('[data-action=heart]').click();await page.getByRole('button',{name:'此刻的心语',exact:true}).click();
+ assert.equal(await page.locator('#emotion-portrait').getAttribute('data-emotion'),'default');assert((await page.locator('#dialogue-text').innerText()).includes('晨光'));
+ await page.keyboard.press('Escape');await page.keyboard.down('d');await page.waitForTimeout(200);await page.keyboard.up('d');await page.locator('[data-action=save]').click();
+ const saved=await page.evaluate(()=>savedGame());assert.equal(saved.journey.memory.visits,1);assert.equal(saved.journey.collections.quotes.length,1);
+ await page.reload();await page.waitForFunction(()=>spring.ready);assert.equal(await page.locator('#continue-spring').isEnabled(),true);await page.locator('#continue-spring').click();
+ const loaded=await page.evaluate(()=>({x:state.x,y:state.y,visits:journey.memory.visits}));assert.equal(loaded.x,saved.x);assert.equal(loaded.y,saved.y);assert.equal(loaded.visits,1);
+ await page.locator('[data-action=title]').click();page.once('dialog',d=>d.dismiss());await page.locator('#new-spring').click();assert.equal(await page.evaluate(()=>spring.mode),'title');assert.equal(await page.evaluate(()=>savedGame().journey.memory.visits),1);
+ page.once('dialog',d=>d.accept());await page.locator('#new-spring').click();assert.equal(await page.evaluate(()=>journey.memory.visits),0);
+ await page.locator('[data-action=menu]').click();await page.getByRole('button',{name:'翻读诗笺',exact:true}).click();await page.getByRole('button',{name:'《葬花吟》',exact:true}).click();
+ assert((await page.locator('#dialogue-text').innerText()).includes('花谢花飞花满天'));
+ for(let i=0;i<7;i++)await page.keyboard.press('e');
+ assert(await page.evaluate(()=>journey.memory.readIds.includes('zanghua')));assert.equal(await page.evaluate(()=>journey.collections.notes[0].text.endsWith('一朝春尽红颜老，花落人亡两不知！')),true);
+ await page.keyboard.press('Escape');await page.locator('[data-action=heart]').click();await page.getByRole('button',{name:'谈谈诗文',exact:true}).click();assert(await page.getByRole('button',{name:'说说《葬花吟》',exact:true}).isVisible());
+ console.log('PASS full 葬花吟 / paginated reading / re-readable library / poem self-review topic');
+ assert.deepEqual(errors,[]);console.log('PASS dialogue branches / expression / local save / reload exact position / new-game cancel and confirm / no runtime errors');
+}finally{if(browser)await browser.close()}})().catch(e=>{console.error(e);process.exitCode=1});

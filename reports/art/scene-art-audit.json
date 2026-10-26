@@ -1,0 +1,1697 @@
+{
+  "version": 1,
+  "status": "blocked",
+  "approved": [],
+  "failures": [
+    {
+      "id": "xiaoxiang-courtyard/ground",
+      "file": "assets/layered/xiaoxiang-courtyard/ground.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ]
+    },
+    {
+      "id": "xiaoxiang-courtyard/flat-decoration",
+      "file": "assets/layered/xiaoxiang-courtyard/flat-decoration.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ]
+    },
+    {
+      "id": "xiaoxiang-courtyard/main-house",
+      "file": "assets/scenes/xiaoxiang/references/xiaoxiang-house.png",
+      "reason": "awaiting_visual_review",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ]
+    },
+    {
+      "id": "xiaoxiang-courtyard/wings",
+      "file": "assets/layered/xiaoxiang-courtyard/wings.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ]
+    },
+    {
+      "id": "xiaoxiang-courtyard/stone-table",
+      "file": "assets/layered/xiaoxiang-courtyard/stone-table.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ]
+    },
+    {
+      "id": "xiaoxiang-courtyard/wall-gate",
+      "file": "assets/layered/xiaoxiang-courtyard/wall-gate.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ]
+    },
+    {
+      "id": "xiaoxiang-courtyard/wall-side",
+      "file": "assets/layered/xiaoxiang-courtyard/wall-side.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ]
+    },
+    {
+      "id": "xiaoxiang-courtyard/trees",
+      "file": "assets/layered/xiaoxiang-courtyard/trees.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ]
+    },
+    {
+      "id": "xiaoxiang-courtyard/flowerbeds",
+      "file": "assets/layered/xiaoxiang-courtyard/flowerbeds.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ]
+    },
+    {
+      "id": "xiaoxiang-courtyard/stone-lamps",
+      "file": "assets/layered/xiaoxiang-courtyard/stone-lamps.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ]
+    },
+    {
+      "id": "xiaoxiang-courtyard/stools-benches",
+      "file": "assets/layered/xiaoxiang-courtyard/stools-benches.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ]
+    },
+    {
+      "id": "xiaoxiang-courtyard/rocks",
+      "file": "assets/layered/xiaoxiang-courtyard/rocks.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ]
+    },
+    {
+      "id": "xiaoxiang-courtyard/pond",
+      "file": "assets/layered/xiaoxiang-courtyard/pond.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ]
+    },
+    {
+      "id": "xiaoxiang-courtyard/well",
+      "file": "assets/layered/xiaoxiang-courtyard/well.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/ground",
+      "file": "assets/layered/xiaoxiang-indoor/ground.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/flat-decoration",
+      "file": "assets/layered/xiaoxiang-indoor/flat-decoration.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/wall-north",
+      "file": "assets/layered/xiaoxiang-indoor/wall-north.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/wall-west",
+      "file": "assets/layered/xiaoxiang-indoor/wall-west.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/wall-east",
+      "file": "assets/layered/xiaoxiang-indoor/wall-east.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/wall-south-left",
+      "file": "assets/layered/xiaoxiang-indoor/wall-south-left.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/wall-south-right",
+      "file": "assets/layered/xiaoxiang-indoor/wall-south-right.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/door-left",
+      "file": "assets/layered/xiaoxiang-indoor/door-left.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/door-right",
+      "file": "assets/layered/xiaoxiang-indoor/door-right.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/bed",
+      "file": "assets/layered/xiaoxiang-indoor/bed.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/desk",
+      "file": "assets/layered/xiaoxiang-indoor/desk.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/study-chair",
+      "file": "assets/layered/xiaoxiang-indoor/study-chair.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/tea-table",
+      "file": "assets/layered/xiaoxiang-indoor/tea-table.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/tea-stools",
+      "file": "assets/layered/xiaoxiang-indoor/tea-stools.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/shelf",
+      "file": "assets/layered/xiaoxiang-indoor/shelf.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/screen",
+      "file": "assets/layered/xiaoxiang-indoor/screen.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/planters",
+      "file": "assets/layered/xiaoxiang-indoor/planters.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/lamps",
+      "file": "assets/layered/xiaoxiang-indoor/lamps.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/scroll",
+      "file": "assets/layered/xiaoxiang-indoor/scroll.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/qin-table",
+      "file": "assets/layered/xiaoxiang-indoor/qin-table.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "xiaoxiang-indoor/qin-chair",
+      "file": "assets/layered/xiaoxiang-indoor/qin-chair.png",
+      "reason": "missing",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ]
+    },
+    {
+      "id": "yihong-courtyard/ground",
+      "file": "assets/layered/yihong-courtyard/ground.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-courtyard"
+      ]
+    },
+    {
+      "id": "yihong-courtyard/flat-decoration",
+      "file": "assets/layered/yihong-courtyard/flat-decoration.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-courtyard"
+      ]
+    },
+    {
+      "id": "yihong-courtyard/main-house",
+      "file": "assets/scenes/yihong/references/yihong-house.png",
+      "reason": "awaiting_visual_review",
+      "scenes": [
+        "yihong-courtyard"
+      ]
+    },
+    {
+      "id": "yihong-courtyard/wings",
+      "file": "assets/layered/yihong-courtyard/wings.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-courtyard"
+      ]
+    },
+    {
+      "id": "yihong-courtyard/stone-table",
+      "file": "assets/layered/yihong-courtyard/stone-table.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-courtyard"
+      ]
+    },
+    {
+      "id": "yihong-courtyard/wall-gate",
+      "file": "assets/layered/yihong-courtyard/wall-gate.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-courtyard"
+      ]
+    },
+    {
+      "id": "yihong-courtyard/wall-side",
+      "file": "assets/layered/yihong-courtyard/wall-side.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-courtyard"
+      ]
+    },
+    {
+      "id": "yihong-courtyard/trees",
+      "file": "assets/layered/yihong-courtyard/trees.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-courtyard"
+      ]
+    },
+    {
+      "id": "yihong-courtyard/flowerbeds",
+      "file": "assets/layered/yihong-courtyard/flowerbeds.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-courtyard"
+      ]
+    },
+    {
+      "id": "yihong-courtyard/stone-lamps",
+      "file": "assets/layered/yihong-courtyard/stone-lamps.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-courtyard"
+      ]
+    },
+    {
+      "id": "yihong-courtyard/stools-benches",
+      "file": "assets/layered/yihong-courtyard/stools-benches.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-courtyard"
+      ]
+    },
+    {
+      "id": "yihong-courtyard/rocks",
+      "file": "assets/layered/yihong-courtyard/rocks.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-courtyard"
+      ]
+    },
+    {
+      "id": "yihong-indoor/ground",
+      "file": "assets/layered/yihong-indoor/ground.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/flat-decoration",
+      "file": "assets/layered/yihong-indoor/flat-decoration.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/wall-north",
+      "file": "assets/layered/yihong-indoor/wall-north.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/wall-west",
+      "file": "assets/layered/yihong-indoor/wall-west.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/wall-east",
+      "file": "assets/layered/yihong-indoor/wall-east.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/wall-south-left",
+      "file": "assets/layered/yihong-indoor/wall-south-left.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/wall-south-right",
+      "file": "assets/layered/yihong-indoor/wall-south-right.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/door-left",
+      "file": "assets/layered/yihong-indoor/door-left.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/door-right",
+      "file": "assets/layered/yihong-indoor/door-right.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/bed",
+      "file": "assets/layered/yihong-indoor/bed.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/desk",
+      "file": "assets/layered/yihong-indoor/desk.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/study-chair",
+      "file": "assets/layered/yihong-indoor/study-chair.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/tea-table",
+      "file": "assets/layered/yihong-indoor/tea-table.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/tea-stools",
+      "file": "assets/layered/yihong-indoor/tea-stools.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/shelf",
+      "file": "assets/layered/yihong-indoor/shelf.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/screen",
+      "file": "assets/layered/yihong-indoor/screen.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/planters",
+      "file": "assets/layered/yihong-indoor/planters.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/lamps",
+      "file": "assets/layered/yihong-indoor/lamps.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "yihong-indoor/scroll",
+      "file": "assets/layered/yihong-indoor/scroll.png",
+      "reason": "missing",
+      "scenes": [
+        "yihong-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-courtyard/ground",
+      "file": "assets/layered/hengwu-courtyard/ground.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-courtyard"
+      ]
+    },
+    {
+      "id": "hengwu-courtyard/flat-decoration",
+      "file": "assets/layered/hengwu-courtyard/flat-decoration.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-courtyard"
+      ]
+    },
+    {
+      "id": "hengwu-courtyard/main-house",
+      "file": "assets/scenes/hengwu/references/hengwu-house.png",
+      "reason": "awaiting_visual_review",
+      "scenes": [
+        "hengwu-courtyard"
+      ]
+    },
+    {
+      "id": "hengwu-courtyard/wings",
+      "file": "assets/layered/hengwu-courtyard/wings.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-courtyard"
+      ]
+    },
+    {
+      "id": "hengwu-courtyard/stone-table",
+      "file": "assets/layered/hengwu-courtyard/stone-table.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-courtyard"
+      ]
+    },
+    {
+      "id": "hengwu-courtyard/wall-gate",
+      "file": "assets/layered/hengwu-courtyard/wall-gate.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-courtyard"
+      ]
+    },
+    {
+      "id": "hengwu-courtyard/wall-side",
+      "file": "assets/layered/hengwu-courtyard/wall-side.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-courtyard"
+      ]
+    },
+    {
+      "id": "hengwu-courtyard/trees",
+      "file": "assets/layered/hengwu-courtyard/trees.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-courtyard"
+      ]
+    },
+    {
+      "id": "hengwu-courtyard/flowerbeds",
+      "file": "assets/layered/hengwu-courtyard/flowerbeds.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-courtyard"
+      ]
+    },
+    {
+      "id": "hengwu-courtyard/stone-lamps",
+      "file": "assets/layered/hengwu-courtyard/stone-lamps.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-courtyard"
+      ]
+    },
+    {
+      "id": "hengwu-courtyard/stools-benches",
+      "file": "assets/layered/hengwu-courtyard/stools-benches.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-courtyard"
+      ]
+    },
+    {
+      "id": "hengwu-courtyard/rocks",
+      "file": "assets/layered/hengwu-courtyard/rocks.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-courtyard"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/ground",
+      "file": "assets/layered/hengwu-indoor/ground.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/flat-decoration",
+      "file": "assets/layered/hengwu-indoor/flat-decoration.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/wall-north",
+      "file": "assets/layered/hengwu-indoor/wall-north.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/wall-west",
+      "file": "assets/layered/hengwu-indoor/wall-west.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/wall-east",
+      "file": "assets/layered/hengwu-indoor/wall-east.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/wall-south-left",
+      "file": "assets/layered/hengwu-indoor/wall-south-left.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/wall-south-right",
+      "file": "assets/layered/hengwu-indoor/wall-south-right.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/door-left",
+      "file": "assets/layered/hengwu-indoor/door-left.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/door-right",
+      "file": "assets/layered/hengwu-indoor/door-right.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/bed",
+      "file": "assets/layered/hengwu-indoor/bed.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/desk",
+      "file": "assets/layered/hengwu-indoor/desk.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/study-chair",
+      "file": "assets/layered/hengwu-indoor/study-chair.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/tea-table",
+      "file": "assets/layered/hengwu-indoor/tea-table.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/tea-stools",
+      "file": "assets/layered/hengwu-indoor/tea-stools.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/shelf",
+      "file": "assets/layered/hengwu-indoor/shelf.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/screen",
+      "file": "assets/layered/hengwu-indoor/screen.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/planters",
+      "file": "assets/layered/hengwu-indoor/planters.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/lamps",
+      "file": "assets/layered/hengwu-indoor/lamps.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "hengwu-indoor/scroll",
+      "file": "assets/layered/hengwu-indoor/scroll.png",
+      "reason": "missing",
+      "scenes": [
+        "hengwu-indoor"
+      ]
+    },
+    {
+      "id": "gate-main-road/ground",
+      "file": "assets/layered/gate-main-road/ground.png",
+      "reason": "missing",
+      "scenes": [
+        "gate-main-road"
+      ]
+    },
+    {
+      "id": "gate-main-road/flat-decoration",
+      "file": "assets/layered/gate-main-road/flat-decoration.png",
+      "reason": "missing",
+      "scenes": [
+        "gate-main-road"
+      ]
+    },
+    {
+      "id": "gate-main-road/wall-gate",
+      "file": "assets/layered/gate-main-road/wall-gate.png",
+      "reason": "missing",
+      "scenes": [
+        "gate-main-road"
+      ]
+    },
+    {
+      "id": "gate-main-road/wall-side",
+      "file": "assets/layered/gate-main-road/wall-side.png",
+      "reason": "missing",
+      "scenes": [
+        "gate-main-road"
+      ]
+    },
+    {
+      "id": "gate-main-road/trees",
+      "file": "assets/layered/gate-main-road/trees.png",
+      "reason": "missing",
+      "scenes": [
+        "gate-main-road"
+      ]
+    },
+    {
+      "id": "gate-main-road/flowerbeds",
+      "file": "assets/layered/gate-main-road/flowerbeds.png",
+      "reason": "missing",
+      "scenes": [
+        "gate-main-road"
+      ]
+    },
+    {
+      "id": "gate-main-road/stone-lamps",
+      "file": "assets/layered/gate-main-road/stone-lamps.png",
+      "reason": "missing",
+      "scenes": [
+        "gate-main-road"
+      ]
+    },
+    {
+      "id": "gate-main-road/stools-benches",
+      "file": "assets/layered/gate-main-road/stools-benches.png",
+      "reason": "missing",
+      "scenes": [
+        "gate-main-road"
+      ]
+    },
+    {
+      "id": "gate-main-road/rocks",
+      "file": "assets/layered/gate-main-road/rocks.png",
+      "reason": "missing",
+      "scenes": [
+        "gate-main-road"
+      ]
+    }
+  ],
+  "legacyReferences": [
+    {
+      "scene": "xiaoxiang-courtyard",
+      "name": "潇湘馆庭院",
+      "file": "assets/scenes/xiaoxiang/references/xiaoxiang-courtyard-wide.png",
+      "mapSize": [
+        1671,
+        941
+      ],
+      "mode": "RGB",
+      "size": [
+        1671,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null,
+      "usage": "reference_only",
+      "reason": "整图烘焙了地面与直立物件，不能作为排序精灵或遮挡裁片"
+    },
+    {
+      "scene": "xiaoxiang-indoor",
+      "name": "潇湘馆内室",
+      "file": "assets/scenes/xiaoxiang/references/xiaoxiang-indoor-wide.png",
+      "mapSize": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null,
+      "usage": "reference_only",
+      "reason": "整图烘焙了地面与直立物件，不能作为排序精灵或遮挡裁片"
+    },
+    {
+      "scene": "yihong-courtyard",
+      "name": "怡红院庭院",
+      "file": "assets/scenes/yihong/references/yihong-courtyard.png",
+      "mapSize": [
+        1672,
+        1545
+      ],
+      "mode": "RGB",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null,
+      "usage": "reference_only",
+      "reason": "整图烘焙了地面与直立物件，不能作为排序精灵或遮挡裁片"
+    },
+    {
+      "scene": "yihong-indoor",
+      "name": "怡红院内室",
+      "file": "assets/scenes/yihong/references/yihong-indoor.png",
+      "mapSize": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null,
+      "usage": "reference_only",
+      "reason": "整图烘焙了地面与直立物件，不能作为排序精灵或遮挡裁片"
+    },
+    {
+      "scene": "hengwu-courtyard",
+      "name": "蘅芜苑庭院",
+      "file": "assets/scenes/hengwu/references/hengwu-courtyard.png",
+      "mapSize": [
+        1672,
+        1545
+      ],
+      "mode": "RGB",
+      "size": [
+        1672,
+        940
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null,
+      "usage": "reference_only",
+      "reason": "整图烘焙了地面与直立物件，不能作为排序精灵或遮挡裁片"
+    },
+    {
+      "scene": "hengwu-indoor",
+      "name": "蘅芜苑内室",
+      "file": "assets/scenes/hengwu/references/hengwu-indoor.png",
+      "mapSize": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null,
+      "usage": "reference_only",
+      "reason": "整图烘焙了地面与直立物件，不能作为排序精灵或遮挡裁片"
+    },
+    {
+      "scene": "gate-main-road",
+      "name": "正门与主路（现有关闭区域，仅整改素材，不开放园路）",
+      "file": "assets/scenes/xiaoxiang/references/xiaoxiang-moon-wall-source.png",
+      "mapSize": [
+        960,
+        1580
+      ],
+      "mode": "RGB",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null,
+      "usage": "reference_only",
+      "reason": "整图烘焙了地面与直立物件，不能作为排序精灵或遮挡裁片"
+    }
+  ],
+  "inventory": [
+    {
+      "file": "assets/characters/daiyu/daiyu-concept-four-directions.png",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/characters/daiyu/daiyu-down.png",
+      "mode": "RGBA",
+      "size": [
+        65,
+        85
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/characters/daiyu/daiyu-expressions.png",
+      "mode": "RGBA",
+      "size": [
+        1024,
+        1536
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        254
+      ]
+    },
+    {
+      "file": "assets/characters/daiyu/daiyu-left.png",
+      "mode": "RGBA",
+      "size": [
+        65,
+        85
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/characters/daiyu/daiyu-lying.png",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/characters/daiyu/daiyu-reference-four-directions.png",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/characters/daiyu/daiyu-right.png",
+      "mode": "RGBA",
+      "size": [
+        65,
+        85
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/characters/daiyu/daiyu-seat-directions.png",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        254
+      ]
+    },
+    {
+      "file": "assets/characters/daiyu/daiyu-seated.png",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/characters/daiyu/daiyu-up.png",
+      "mode": "RGBA",
+      "size": [
+        65,
+        85
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/characters/npcs/textures/baochai-walk.png",
+      "mode": "RGBA",
+      "size": [
+        1086,
+        1448
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/characters/npcs/textures/baoyu-walk.png",
+      "mode": "RGBA",
+      "size": [
+        1086,
+        1448
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/hengwu/references/hengwu-courtyard.png",
+      "mode": "RGB",
+      "size": [
+        1672,
+        940
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null
+    },
+    {
+      "file": "assets/scenes/hengwu/references/hengwu-house.png",
+      "mode": "RGBA",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/hengwu/references/hengwu-indoor.png",
+      "mode": "RGB",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null
+    },
+    {
+      "file": "assets/scenes/shared/spring-objects.png",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/south-path/outer-plants.png",
+      "mode": "RGB",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null
+    },
+    {
+      "file": "assets/scenes/south-path/outer-props.png",
+      "mode": "RGB",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null
+    },
+    {
+      "file": "assets/scenes/south-path/outer-terrain.png",
+      "mode": "RGB",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/bed.png",
+      "mode": "RGBA",
+      "size": [
+        332,
+        279
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/decor-atlas.png",
+      "mode": "RGBA",
+      "size": [
+        1536,
+        1024
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        254
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/desk.png",
+      "mode": "RGBA",
+      "size": [
+        1448,
+        1086
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/door-left.png",
+      "mode": "RGBA",
+      "size": [
+        59,
+        139
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/door-right.png",
+      "mode": "RGBA",
+      "size": [
+        52,
+        144
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/floor-lamp.png",
+      "mode": "RGBA",
+      "size": [
+        48,
+        152
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/floor.png",
+      "mode": "RGBA",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/qin-planter.png",
+      "mode": "RGBA",
+      "size": [
+        46,
+        68
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/qin-stool.png",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/qin-table.png",
+      "mode": "RGBA",
+      "size": [
+        1448,
+        1086
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/rug.png",
+      "mode": "RGBA",
+      "size": [
+        1448,
+        1086
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/screen.png",
+      "mode": "RGBA",
+      "size": [
+        1086,
+        1448
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/shelf.png",
+      "mode": "RGBA",
+      "size": [
+        202,
+        193
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/study-chair.png",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/tea-chair-north.png",
+      "mode": "RGBA",
+      "size": [
+        64,
+        75
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/tea-stool.png",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/tea-table.png",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-east.png",
+      "mode": "RGBA",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-north.png",
+      "mode": "RGBA",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-south-left.png",
+      "mode": "RGBA",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-south-right.png",
+      "mode": "RGBA",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-west.png",
+      "mode": "RGBA",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/legacy/interior-concept.png",
+      "mode": "RGB",
+      "size": [
+        1586,
+        992
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/legacy/interior-furniture-atlas.png",
+      "mode": "RGBA",
+      "size": [
+        1254,
+        1254
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/legacy/interior-shell.png",
+      "mode": "RGB",
+      "size": [
+        1586,
+        992
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/references/xiaoxiang-concept.png",
+      "mode": "RGB",
+      "size": [
+        1586,
+        992
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/references/xiaoxiang-courtyard-wide.png",
+      "mode": "RGB",
+      "size": [
+        1671,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/references/xiaoxiang-ground.png",
+      "mode": "RGB",
+      "size": [
+        1586,
+        992
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/references/xiaoxiang-house.png",
+      "mode": "RGBA",
+      "size": [
+        1586,
+        560
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/references/xiaoxiang-indoor-wide.png",
+      "mode": "RGB",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null
+    },
+    {
+      "file": "assets/scenes/xiaoxiang/references/xiaoxiang-moon-wall-source.png",
+      "mode": "RGB",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null
+    },
+    {
+      "file": "assets/scenes/yihong/references/yihong-courtyard.png",
+      "mode": "RGB",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null
+    },
+    {
+      "file": "assets/scenes/yihong/references/yihong-house.png",
+      "mode": "RGBA",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "alphaRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "assets/scenes/yihong/references/yihong-indoor.png",
+      "mode": "RGB",
+      "size": [
+        1672,
+        941
+      ],
+      "hasAlpha": false,
+      "hasTransparency": false,
+      "alphaRange": null
+    }
+  ],
+  "playableReleaseVerified": false,
+  "notes": [
+    "Alpha 检查通过不等于美术合格；需人工确认无底色、无烘焙地面。",
+    "新增构建先校验，失败时不覆盖现有 HTML；旧 HTML 不算新规则验收通过。"
+  ]
+}

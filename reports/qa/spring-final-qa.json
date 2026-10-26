@@ -1,0 +1,130 @@
+{
+  "passed": true,
+  "errors": [],
+  "reach": [
+    {
+      "scene": "indoor",
+      "key": "exit",
+      "reachable": true
+    },
+    {
+      "scene": "indoor",
+      "key": "bed",
+      "reachable": true
+    },
+    {
+      "scene": "indoor",
+      "key": "desk",
+      "reachable": true
+    },
+    {
+      "scene": "indoor",
+      "key": "shelf",
+      "reachable": true
+    },
+    {
+      "scene": "indoor",
+      "key": "tea",
+      "reachable": true
+    },
+    {
+      "scene": "indoor",
+      "key": "qin",
+      "reachable": true
+    },
+    {
+      "scene": "indoor",
+      "key": "window",
+      "reachable": true
+    },
+    {
+      "scene": "indoor",
+      "key": "screen",
+      "reachable": true
+    },
+    {
+      "scene": "indoor",
+      "key": "vase",
+      "reachable": true
+    },
+    {
+      "scene": "indoor",
+      "key": "scroll",
+      "reachable": true
+    },
+    {
+      "scene": "indoor",
+      "key": "narcissus",
+      "reachable": true
+    },
+    {
+      "scene": "indoor",
+      "key": "rug",
+      "reachable": true
+    },
+    {
+      "scene": "indoor",
+      "key": "lamp-east",
+      "reachable": true
+    },
+    {
+      "scene": "indoor",
+      "key": "lamp-entry",
+      "reachable": true
+    },
+    {
+      "scene": "indoor",
+      "key": "chair",
+      "reachable": true
+    },
+    {
+      "scene": "courtyard",
+      "key": "door",
+      "reachable": true
+    },
+    {
+      "scene": "courtyard",
+      "key": "tea",
+      "reachable": true
+    },
+    {
+      "scene": "courtyard",
+      "key": "bamboo",
+      "reachable": true
+    },
+    {
+      "scene": "courtyard",
+      "key": "gate",
+      "reachable": true
+    },
+    {
+      "scene": "courtyard",
+      "key": "flowerbed",
+      "reachable": true
+    },
+    {
+      "scene": "courtyard",
+      "key": "lotus",
+      "reachable": true
+    },
+    {
+      "scene": "courtyard",
+      "key": "stone-lamp",
+      "reachable": true
+    },
+    {
+      "scene": "courtyard",
+      "key": "rockery",
+      "reachable": true
+    },
+    {
+      "scene": "courtyard",
+      "key": "peach",
+      "reachable": true
+    }
+  ],
+  "platform": "desktop-web",
+  "offline": true,
+  "fullSaveRoundtrip": true,
+  "layoutUnchanged": true
+}

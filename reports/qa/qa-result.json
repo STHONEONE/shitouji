@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "offline": true,
+  "checks": 22,
+  "errors": [],
+  "imageInfo": {
+    "assets": 3,
+    "smoothing": false,
+    "bright": 5396
+  }
+}

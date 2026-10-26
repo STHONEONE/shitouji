@@ -1,0 +1,285 @@
+{
+  "scene": "xiaoxiang-courtyard",
+  "reference": "xiaoxiang-courtyard-wide.png",
+  "reference_size": [
+    1671,
+    941
+  ],
+  "format": "RGBA PNG and lossless WebP",
+  "status": "PARTIAL_EXTRACTION_REVIEW_ONLY",
+  "world_coordinate_origin": "reference image top-left (0,0)",
+  "alignment": "No rotations, scaling or perspective changes. Pixel-derived from same source.",
+  "wall_seams_x": [
+    645,
+    1014
+  ],
+  "objects": [
+    {
+      "id": "main-house",
+      "layer": "occluder",
+      "image": "occluders/main-house.webp",
+      "png": "occluders/main-house.png",
+      "source_bbox": [
+        503,
+        86,
+        1145,
+        457
+      ],
+      "x": 825,
+      "baseY": 449,
+      "anchor_px": [
+        322,
+        363
+      ],
+      "status": "EXTRACTION_DRAFT",
+      "note": "单一正房；原图中正房后的第二建筑不纳入此件；屋檐细节与树冠交界需要人工像素核对。"
+    },
+    {
+      "id": "stone-table",
+      "layer": "y",
+      "image": "objects/stone-table.webp",
+      "png": "objects/stone-table.png",
+      "source_bbox": [
+        351,
+        498,
+        469,
+        594
+      ],
+      "x": 410,
+      "baseY": 587,
+      "anchor_px": [
+        59,
+        89
+      ],
+      "status": "EXTRACTION_DRAFT",
+      "note": "石桌含茶壶茶杯；未合并石凳。"
+    },
+    {
+      "id": "stone-stool-01",
+      "layer": "y",
+      "image": "objects/stone-stool-01.webp",
+      "png": "objects/stone-stool-01.png",
+      "source_bbox": [
+        317,
+        520,
+        364,
+        576
+      ],
+      "x": 339,
+      "baseY": 567,
+      "anchor_px": [
+        22,
+        47
+      ],
+      "status": "EXTRACTION_DRAFT",
+      "note": "单独石凳，坐面为目测坐标。",
+      "seat_world": [
+        339,
+        533
+      ],
+      "seat_px": [
+        22,
+        13
+      ]
+    },
+    {
+      "id": "stone-stool-02",
+      "layer": "y",
+      "image": "objects/stone-stool-02.webp",
+      "png": "objects/stone-stool-02.png",
+      "source_bbox": [
+        459,
+        518,
+        504,
+        577
+      ],
+      "x": 483,
+      "baseY": 567,
+      "anchor_px": [
+        24,
+        49
+      ],
+      "status": "EXTRACTION_DRAFT",
+      "note": "单独石凳，坐面为目测坐标。",
+      "seat_world": [
+        483,
+        533
+      ],
+      "seat_px": [
+        24,
+        15
+      ]
+    },
+    {
+      "id": "stone-stool-03",
+      "layer": "y",
+      "image": "objects/stone-stool-03.webp",
+      "png": "objects/stone-stool-03.png",
+      "source_bbox": [
+        336,
+        561,
+        388,
+        614
+      ],
+      "x": 361,
+      "baseY": 605,
+      "anchor_px": [
+        25,
+        44
+      ],
+      "status": "EXTRACTION_DRAFT",
+      "note": "单独石凳，坐面为目测坐标。",
+      "seat_world": [
+        362,
+        579
+      ],
+      "seat_px": [
+        26,
+        18
+      ]
+    },
+    {
+      "id": "stone-stool-04",
+      "layer": "y",
+      "image": "objects/stone-stool-04.webp",
+      "png": "objects/stone-stool-04.png",
+      "source_bbox": [
+        430,
+        557,
+        484,
+        611
+      ],
+      "x": 458,
+      "baseY": 601,
+      "anchor_px": [
+        28,
+        44
+      ],
+      "status": "EXTRACTION_DRAFT",
+      "note": "单独石凳，坐面为目测坐标。",
+      "seat_world": [
+        458,
+        579
+      ],
+      "seat_px": [
+        28,
+        22
+      ]
+    },
+    {
+      "id": "stone-lamp-01",
+      "layer": "y",
+      "image": "objects/stone-lamp-01.webp",
+      "png": "objects/stone-lamp-01.png",
+      "source_bbox": [
+        660,
+        405,
+        718,
+        483
+      ],
+      "x": 689,
+      "baseY": 477,
+      "anchor_px": [
+        29,
+        72
+      ],
+      "status": "EXTRACTION_DRAFT",
+      "note": "台阶旁石灯单体；原画阴影不带地面。"
+    },
+    {
+      "id": "stone-lamp-02",
+      "layer": "y",
+      "image": "objects/stone-lamp-02.webp",
+      "png": "objects/stone-lamp-02.png",
+      "source_bbox": [
+        931,
+        402,
+        989,
+        480
+      ],
+      "x": 960,
+      "baseY": 474,
+      "anchor_px": [
+        29,
+        72
+      ],
+      "status": "EXTRACTION_DRAFT",
+      "note": "台阶旁石灯单体；原画阴影不带地面。"
+    },
+    {
+      "id": "wall-side-left",
+      "layer": "occluder",
+      "image": "occluders/wall-side-left.webp",
+      "png": "occluders/wall-side-left.png",
+      "source_bbox": [
+        0,
+        692,
+        648,
+        863
+      ],
+      "x": 322,
+      "baseY": 849,
+      "anchor_px": [
+        322,
+        157
+      ],
+      "status": "EXTRACTION_DRAFT",
+      "note": "同一幅原图同一墙体蒙版裁成的相邻墙段；左右拼接界线 x=645 和 x=1014。月洞门区域按原画抠空。"
+    },
+    {
+      "id": "wall-gate",
+      "layer": "occluder",
+      "image": "occluders/wall-gate.webp",
+      "png": "occluders/wall-gate.png",
+      "source_bbox": [
+        642,
+        644,
+        1017,
+        863
+      ],
+      "x": 829,
+      "baseY": 849,
+      "anchor_px": [
+        187,
+        205
+      ],
+      "status": "EXTRACTION_DRAFT",
+      "note": "同一幅原图同一墙体蒙版裁成的相邻墙段；左右拼接界线 x=645 和 x=1014。月洞门区域按原画抠空。"
+    },
+    {
+      "id": "wall-side-right",
+      "layer": "occluder",
+      "image": "occluders/wall-side-right.webp",
+      "png": "occluders/wall-side-right.png",
+      "source_bbox": [
+        1011,
+        682,
+        1671,
+        858
+      ],
+      "x": 1342,
+      "baseY": 849,
+      "anchor_px": [
+        331,
+        167
+      ],
+      "status": "EXTRACTION_DRAFT",
+      "note": "同一幅原图同一墙体蒙版裁成的相邻墙段；左右拼接界线 x=645 和 x=1014。月洞门区域按原画抠空。"
+    }
+  ],
+  "not_delivered": [
+    "ground clean/inpainted",
+    "flat decorations",
+    "side wings",
+    "trees/bamboo",
+    "rocks",
+    "pond/water ground",
+    "other independent props",
+    "four wall-front stone lanterns",
+    "flowerbeds (not yet acceptable)",
+    "well (not yet acceptable)"
+  ],
+  "caution": "Masks are initial polygon/matte extractions. Manual refinement needed at roof eaves, flowers, curved stone openings and occluded contours; not approved for production.",
+  "object_count": 11,
+  "qa_note": "Draft contour matting; does not satisfy fully clean terrain or all sprite-edge requirements. Not a final scene package."
+}

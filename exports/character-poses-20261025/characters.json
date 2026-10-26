@@ -1,0 +1,773 @@
+{
+  "version": 1,
+  "tileSize": [
+    128,
+    128
+  ],
+  "anchor": "bottom-center",
+  "interpolation": "nearest",
+  "people": [
+    {
+      "id": "daiyu",
+      "name": "林黛玉",
+      "source": "原版四向、六坐姿及躺姿，保留现有形象",
+      "frames": [
+        {
+          "id": "stand-down",
+          "label": "正面站姿",
+          "file": "daiyu/stand-down.png",
+          "sourceFile": "daiyu/stand-down-source.png",
+          "rect": [
+            0,
+            0,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            68,
+            84
+          ],
+          "posture": "standing"
+        },
+        {
+          "id": "stand-up",
+          "label": "背面站姿",
+          "file": "daiyu/stand-up.png",
+          "sourceFile": "daiyu/stand-up-source.png",
+          "rect": [
+            128,
+            0,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            66,
+            84
+          ],
+          "posture": "standing"
+        },
+        {
+          "id": "stand-right",
+          "label": "向右站姿",
+          "file": "daiyu/stand-right.png",
+          "sourceFile": "daiyu/stand-right-source.png",
+          "rect": [
+            256,
+            0,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            60,
+            84
+          ],
+          "posture": "standing"
+        },
+        {
+          "id": "stand-left",
+          "label": "向左站姿",
+          "file": "daiyu/stand-left.png",
+          "sourceFile": "daiyu/stand-left-source.png",
+          "rect": [
+            384,
+            0,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            60,
+            84
+          ],
+          "posture": "standing"
+        },
+        {
+          "id": "sit-front",
+          "label": "正面坐姿",
+          "file": "daiyu/sit-front.png",
+          "sourceFile": "daiyu/sit-front-source.png",
+          "rect": [
+            0,
+            128,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            78,
+            74
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-back",
+          "label": "背面坐姿",
+          "file": "daiyu/sit-back.png",
+          "sourceFile": "daiyu/sit-back-source.png",
+          "rect": [
+            128,
+            128,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            75,
+            74
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-east",
+          "label": "向右坐姿",
+          "file": "daiyu/sit-east.png",
+          "sourceFile": "daiyu/sit-east-source.png",
+          "rect": [
+            256,
+            128,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            70,
+            74
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-west",
+          "label": "向左坐姿",
+          "file": "daiyu/sit-west.png",
+          "sourceFile": "daiyu/sit-west-source.png",
+          "rect": [
+            384,
+            128,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            75,
+            74
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-study",
+          "label": "书案坐姿",
+          "file": "daiyu/sit-study.png",
+          "sourceFile": "daiyu/sit-study-source.png",
+          "rect": [
+            0,
+            256,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            80,
+            80
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-low",
+          "label": "低凳坐姿",
+          "file": "daiyu/sit-low.png",
+          "sourceFile": "daiyu/sit-low-source.png",
+          "rect": [
+            128,
+            256,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            59,
+            68
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "lie",
+          "label": "躺姿",
+          "file": "daiyu/lie.png",
+          "sourceFile": "daiyu/lie-source.png",
+          "rect": [
+            256,
+            256,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            100,
+            96
+          ],
+          "posture": "lying"
+        }
+      ]
+    },
+    {
+      "id": "baoyu",
+      "name": "贾宝玉",
+      "source": "用户角色卡参考；imagegen 内置工具制作动作",
+      "frames": [
+        {
+          "id": "stand-down",
+          "label": "正面站姿",
+          "file": "baoyu/stand-down.png",
+          "sourceFile": "baoyu/stand-down-source.png",
+          "rect": [
+            0,
+            0,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            62,
+            84
+          ],
+          "posture": "standing"
+        },
+        {
+          "id": "stand-up",
+          "label": "背面站姿",
+          "file": "baoyu/stand-up.png",
+          "sourceFile": "baoyu/stand-up-source.png",
+          "rect": [
+            128,
+            0,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            61,
+            84
+          ],
+          "posture": "standing"
+        },
+        {
+          "id": "stand-right",
+          "label": "向右站姿",
+          "file": "baoyu/stand-right.png",
+          "sourceFile": "baoyu/stand-right-source.png",
+          "rect": [
+            256,
+            0,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            49,
+            84
+          ],
+          "posture": "standing"
+        },
+        {
+          "id": "stand-left",
+          "label": "向左站姿",
+          "file": "baoyu/stand-left.png",
+          "sourceFile": "baoyu/stand-left-source.png",
+          "rect": [
+            384,
+            0,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            51,
+            84
+          ],
+          "posture": "standing"
+        },
+        {
+          "id": "sit-front",
+          "label": "正面坐姿",
+          "file": "baoyu/sit-front.png",
+          "sourceFile": "baoyu/sit-front-source.png",
+          "rect": [
+            0,
+            128,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            59,
+            74
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-back",
+          "label": "背面坐姿",
+          "file": "baoyu/sit-back.png",
+          "sourceFile": "baoyu/sit-back-source.png",
+          "rect": [
+            128,
+            128,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            54,
+            74
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-east",
+          "label": "向右坐姿",
+          "file": "baoyu/sit-east.png",
+          "sourceFile": "baoyu/sit-east-source.png",
+          "rect": [
+            256,
+            128,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            49,
+            74
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-west",
+          "label": "向左坐姿",
+          "file": "baoyu/sit-west.png",
+          "sourceFile": "baoyu/sit-west-source.png",
+          "rect": [
+            384,
+            128,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            49,
+            74
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-study",
+          "label": "书案坐姿",
+          "file": "baoyu/sit-study.png",
+          "sourceFile": "baoyu/sit-study-source.png",
+          "rect": [
+            0,
+            256,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            65,
+            80
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-low",
+          "label": "低凳坐姿",
+          "file": "baoyu/sit-low.png",
+          "sourceFile": "baoyu/sit-low-source.png",
+          "rect": [
+            128,
+            256,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            50,
+            68
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "lie",
+          "label": "躺姿",
+          "file": "baoyu/lie.png",
+          "sourceFile": "baoyu/lie-source.png",
+          "rect": [
+            256,
+            256,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            100,
+            51
+          ],
+          "posture": "lying"
+        },
+        {
+          "id": "stand-smile",
+          "label": "微笑站姿",
+          "file": "baoyu/stand-smile.png",
+          "sourceFile": "baoyu/stand-smile-source.png",
+          "rect": [
+            384,
+            256,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            61,
+            84
+          ],
+          "posture": "standing"
+        }
+      ]
+    },
+    {
+      "id": "baochai",
+      "name": "薛宝钗",
+      "source": "用户角色卡参考；imagegen 内置工具制作动作",
+      "frames": [
+        {
+          "id": "stand-down",
+          "label": "正面站姿",
+          "file": "baochai/stand-down.png",
+          "sourceFile": "baochai/stand-down-source.png",
+          "rect": [
+            0,
+            0,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            59,
+            84
+          ],
+          "posture": "standing"
+        },
+        {
+          "id": "stand-up",
+          "label": "背面站姿",
+          "file": "baochai/stand-up.png",
+          "sourceFile": "baochai/stand-up-source.png",
+          "rect": [
+            128,
+            0,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            57,
+            84
+          ],
+          "posture": "standing"
+        },
+        {
+          "id": "stand-right",
+          "label": "向右站姿",
+          "file": "baochai/stand-right.png",
+          "sourceFile": "baochai/stand-right-source.png",
+          "rect": [
+            256,
+            0,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            51,
+            84
+          ],
+          "posture": "standing"
+        },
+        {
+          "id": "stand-left",
+          "label": "向左站姿",
+          "file": "baochai/stand-left.png",
+          "sourceFile": "baochai/stand-left-source.png",
+          "rect": [
+            384,
+            0,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            51,
+            84
+          ],
+          "posture": "standing"
+        },
+        {
+          "id": "sit-front",
+          "label": "正面坐姿",
+          "file": "baochai/sit-front.png",
+          "sourceFile": "baochai/sit-front-source.png",
+          "rect": [
+            0,
+            128,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            52,
+            74
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-back",
+          "label": "背面坐姿",
+          "file": "baochai/sit-back.png",
+          "sourceFile": "baochai/sit-back-source.png",
+          "rect": [
+            128,
+            128,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            51,
+            74
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-east",
+          "label": "向右坐姿",
+          "file": "baochai/sit-east.png",
+          "sourceFile": "baochai/sit-east-source.png",
+          "rect": [
+            256,
+            128,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            51,
+            74
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-west",
+          "label": "向左坐姿",
+          "file": "baochai/sit-west.png",
+          "sourceFile": "baochai/sit-west-source.png",
+          "rect": [
+            384,
+            128,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            52,
+            74
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-study",
+          "label": "书案坐姿",
+          "file": "baochai/sit-study.png",
+          "sourceFile": "baochai/sit-study-source.png",
+          "rect": [
+            0,
+            256,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            61,
+            80
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "sit-low",
+          "label": "低凳坐姿",
+          "file": "baochai/sit-low.png",
+          "sourceFile": "baochai/sit-low-source.png",
+          "rect": [
+            128,
+            256,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            51,
+            68
+          ],
+          "posture": "seated"
+        },
+        {
+          "id": "lie",
+          "label": "躺姿",
+          "file": "baochai/lie.png",
+          "sourceFile": "baochai/lie-source.png",
+          "rect": [
+            256,
+            256,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            100,
+            58
+          ],
+          "posture": "lying"
+        },
+        {
+          "id": "stand-smile",
+          "label": "微笑站姿",
+          "file": "baochai/stand-smile.png",
+          "sourceFile": "baochai/stand-smile-source.png",
+          "rect": [
+            384,
+            256,
+            128,
+            128
+          ],
+          "origin": [
+            64,
+            120
+          ],
+          "visibleSize": [
+            58,
+            84
+          ],
+          "posture": "standing"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "静态姿态帧，不宣称逐帧行走动画。",
+    "坐姿原点为画布定位点；实际座面与遮挡深度仍须按各凳位标定。",
+    "人物素材制作阶段，未改变主角、场景布局或加入 NPC 对话。",
+    "黛玉躺姿沿用已提供的床品合成图；宝玉宝钗为不含床的侧卧图，接床时应分别标定，不能共用偏移。"
+  ]
+}

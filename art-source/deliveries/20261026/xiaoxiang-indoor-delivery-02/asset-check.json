@@ -1,0 +1,83 @@
+{
+  "files": [
+    {
+      "file": "ground/floor.png",
+      "size": [
+        1672,
+        941
+      ],
+      "alpha": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "occluders/bed.png",
+      "size": [
+        332,
+        279
+      ],
+      "alpha": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "occluders/wall-east.png",
+      "size": [
+        1122,
+        1402
+      ],
+      "alpha": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "occluders/wall-north.png",
+      "size": [
+        1672,
+        941
+      ],
+      "alpha": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "occluders/wall-south-left.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "alpha": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "occluders/wall-south-right.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "alpha": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "occluders/wall-west.png",
+      "size": [
+        1122,
+        1402
+      ],
+      "alpha": [
+        0,
+        255
+      ]
+    }
+  ],
+  "integrated": false,
+  "reason": "墙体视角、尺寸和地面外轮廓尚不能按原布局拼合；床与首包原床相同"
+}

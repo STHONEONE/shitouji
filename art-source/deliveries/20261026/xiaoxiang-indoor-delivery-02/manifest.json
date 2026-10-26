@@ -1,0 +1,101 @@
+{
+  "scene": "xiaoxiang_indoor",
+  "reference_size": [
+    1672,
+    941
+  ],
+  "delivery_status": "DRAFT_NOT_APPROVED_FOR_GAME",
+  "files": [
+    {
+      "file": "ground/floor.png",
+      "source": "木质地板与石阶入口_tile.png",
+      "size_px": [
+        1672,
+        941
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "status": "new_asset_pending_alignment"
+    },
+    {
+      "file": "occluders/wall-north.png",
+      "source": "东亚传统木质格栅墙面面板.png",
+      "size_px": [
+        1672,
+        941
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "status": "new_asset_pending_alignment"
+    },
+    {
+      "file": "occluders/wall-west.png",
+      "source": "中式暖光木格窗墙面组件.png",
+      "size_px": [
+        1122,
+        1402
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "status": "new_asset_pending_alignment"
+    },
+    {
+      "file": "occluders/wall-east.png",
+      "source": "传统东亚室内东墙像素艺术资产.png",
+      "size_px": [
+        1122,
+        1402
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "status": "new_asset_pending_alignment"
+    },
+    {
+      "file": "occluders/wall-south-left.png",
+      "source": "中式庭院墙栏像素素材.png",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "status": "new_asset_pending_alignment"
+    },
+    {
+      "file": "occluders/wall-south-right.png",
+      "source": "中式古典木质格栅墙段.png",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "status": "new_asset_pending_alignment"
+    },
+    {
+      "file": "occluders/bed.png",
+      "source": "_inspect_previous/bed_original_draft.png",
+      "size_px": [
+        332,
+        279
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "status": "reuse_original_design_pending_alignment"
+    }
+  ]
+}

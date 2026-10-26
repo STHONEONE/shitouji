@@ -1,0 +1,116 @@
+{
+  "objects_checked": 11,
+  "all_alpha_match": true,
+  "stats": [
+    {
+      "id": "main-house",
+      "size": [
+        642,
+        371
+      ],
+      "real_transparent_pixels": 74363,
+      "opaque_pixels": 159486,
+      "matching_png_webp_alpha": true
+    },
+    {
+      "id": "stone-table",
+      "size": [
+        118,
+        96
+      ],
+      "real_transparent_pixels": 6305,
+      "opaque_pixels": 4457,
+      "matching_png_webp_alpha": true
+    },
+    {
+      "id": "stone-stool-01",
+      "size": [
+        47,
+        56
+      ],
+      "real_transparent_pixels": 1037,
+      "opaque_pixels": 1119,
+      "matching_png_webp_alpha": true
+    },
+    {
+      "id": "stone-stool-02",
+      "size": [
+        45,
+        59
+      ],
+      "real_transparent_pixels": 1112,
+      "opaque_pixels": 1086,
+      "matching_png_webp_alpha": true
+    },
+    {
+      "id": "stone-stool-03",
+      "size": [
+        52,
+        53
+      ],
+      "real_transparent_pixels": 1142,
+      "opaque_pixels": 1158,
+      "matching_png_webp_alpha": true
+    },
+    {
+      "id": "stone-stool-04",
+      "size": [
+        54,
+        54
+      ],
+      "real_transparent_pixels": 1226,
+      "opaque_pixels": 1211,
+      "matching_png_webp_alpha": true
+    },
+    {
+      "id": "stone-lamp-01",
+      "size": [
+        58,
+        78
+      ],
+      "real_transparent_pixels": 2287,
+      "opaque_pixels": 1523,
+      "matching_png_webp_alpha": true
+    },
+    {
+      "id": "stone-lamp-02",
+      "size": [
+        58,
+        78
+      ],
+      "real_transparent_pixels": 2287,
+      "opaque_pixels": 1523,
+      "matching_png_webp_alpha": true
+    },
+    {
+      "id": "wall-side-left",
+      "size": [
+        648,
+        171
+      ],
+      "real_transparent_pixels": 12481,
+      "opaque_pixels": 93803,
+      "matching_png_webp_alpha": true
+    },
+    {
+      "id": "wall-gate",
+      "size": [
+        375,
+        219
+      ],
+      "real_transparent_pixels": 32626,
+      "opaque_pixels": 46119,
+      "matching_png_webp_alpha": true
+    },
+    {
+      "id": "wall-side-right",
+      "size": [
+        660,
+        176
+      ],
+      "real_transparent_pixels": 15443,
+      "opaque_pixels": 95963,
+      "matching_png_webp_alpha": true
+    }
+  ]
+}

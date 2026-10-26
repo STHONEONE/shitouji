@@ -1,0 +1,87 @@
+{
+  "passed": true,
+  "restored": 10,
+  "reachable": [
+    {
+      "id": "bedside-cabinet",
+      "key": "bedside-cabinet",
+      "spot": [
+        620,
+        407
+      ]
+    },
+    {
+      "id": "north-console",
+      "key": "north-console",
+      "spot": [
+        708,
+        343
+      ]
+    },
+    {
+      "id": "flower-stand",
+      "key": "flower-stand",
+      "spot": [
+        164,
+        559
+      ]
+    },
+    {
+      "id": "bed-step",
+      "key": "bed-step",
+      "spot": [
+        188,
+        415
+      ]
+    },
+    {
+      "id": "bonsai-entry-left",
+      "key": "bonsai-entry-left",
+      "spot": [
+        716,
+        695
+      ]
+    },
+    {
+      "id": "bonsai-entry-right",
+      "key": "bonsai-entry-right",
+      "spot": [
+        1228,
+        679
+      ]
+    },
+    {
+      "id": "vase",
+      "key": "vase",
+      "spot": [
+        1492,
+        663
+      ]
+    },
+    {
+      "id": "scroll-chest",
+      "key": "scroll-chest",
+      "spot": [
+        1260,
+        343
+      ]
+    },
+    {
+      "id": "screen-entry",
+      "key": "screen-entry",
+      "spot": [
+        1308,
+        671
+      ]
+    },
+    {
+      "id": "lamp-entry-right",
+      "key": "lamp-entry-right",
+      "spot": [
+        1156,
+        695
+      ]
+    }
+  ],
+  "errors": []
+}

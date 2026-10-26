@@ -1,0 +1,14 @@
+{
+  "tool": "built-in image_gen",
+  "baoyuPrompt": "Edit reference Jia Baoyu character into ONE production walking sprite atlas, transparent PNG. Preserve exact identity: same dark long hair, small red crown ornament, white and vermilion red/gold Hanfu, chibi body proportion and face. 3 columns x 4 rows, 768x1024 canvas, each cell256square with comfortable transparent margin. Rows top to bottom FRONT/down, BACK/up, LEFT facing west, RIGHT facing east. Columns: left foot forward, neutral idle, right foot forward. Actual leg, sleeve, hair and hem changes between the walking frames, not duplicate standing figures; subtle believable walking. All12 figures same height210px and feet at cell y238, bottom center x128. No portrait or seated/lying poses. No labels, text, panels, ground, shadow rectangle, white matte or glow. Genuine transparent background between all sprites and between legs. Clean detailed pixel style matching reference, keep the costume design unchanged.",
+  "baochaiPrompt": "Create ONE transparent walking sprite atlas by editing supplied Xue Baochai character, preserving her exact identity, dark long hair, yellow/ivory floral hanfu, gold hair ornaments and chibi face/proportion. Four horizontal rows and three columns, all12 full-body sprites, NO portrait, seated or lying poses. ROW1 faces camera/down; ROW2 back/up; ROW3 all three face LEFT/west; ROW4 all three face RIGHT/east. COLUMN1 left foot forward, COLUMN2 neutral idle, COLUMN3 right foot forward. All sprites same scale/feet baseline within each cell, real visibly different leg and sleeve walk-cycle poses. Transparent background throughout, including gaps between limbs, no glow, color backdrop, ground rectangles, labels or text. Clean pixel-art style matching source. Canvas768x1024, equal256square cells, no overlapping, leave comfortable30pixel margins per cell. Only walking character sprites and true alpha.",
+  "inputs": [
+    "art-source/characters/baoyu-actions-v1.png",
+    "art-source/characters/baochai-actions-v1.png"
+  ],
+  "outputs": [
+    "assets/characters/npcs/textures/baoyu-walk.png",
+    "assets/characters/npcs/textures/baochai-walk.png"
+  ],
+  "note": "Generated sheets inspected by direction. Baoyu left uses two valid poses in a loop; Baochai third side frames were assigned to their actual facing direction. Existing uploaded NPC WebP sheets are lossless and were not redrawn."
+}

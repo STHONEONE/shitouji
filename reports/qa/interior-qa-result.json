@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "errors": [],
+  "reachability": {
+    "landmarks": [
+      {
+        "key": "exit",
+        "reachable": true
+      },
+      {
+        "key": "bed",
+        "reachable": true
+      },
+      {
+        "key": "desk",
+        "reachable": true
+      },
+      {
+        "key": "shelf",
+        "reachable": true
+      },
+      {
+        "key": "tea",
+        "reachable": true
+      },
+      {
+        "key": "qin",
+        "reachable": true
+      },
+      {
+        "key": "window",
+        "reachable": true
+      },
+      {
+        "key": "screen",
+        "reachable": true
+      },
+      {
+        "key": "vase",
+        "reachable": true
+      }
+    ],
+    "visited": 3531,
+    "propCount": 10,
+    "solid": true,
+    "walls": true
+  },
+  "offline": true
+}

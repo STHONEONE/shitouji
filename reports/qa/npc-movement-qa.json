@@ -1,0 +1,44 @@
+{
+  "passed": true,
+  "movement": {
+    "invalid": [],
+    "people": [
+      {
+        "id": "baoyu",
+        "moved": 132.67749596255504,
+        "doorClear": true
+      },
+      {
+        "id": "baochai",
+        "moved": 143.4442591074409,
+        "doorClear": true
+      },
+      {
+        "id": "xiren",
+        "moved": 118.12762624367788,
+        "doorClear": true
+      },
+      {
+        "id": "xiangyun",
+        "moved": 162.50753997940473,
+        "doorClear": true
+      },
+      {
+        "id": "tanchun",
+        "moved": 123.44951534954174,
+        "doorClear": true
+      },
+      {
+        "id": "jiamu",
+        "moved": 117.17111389982313,
+        "doorClear": true
+      }
+    ],
+    "allNPCs": 10
+  },
+  "conversationTime": {
+    "before": 0,
+    "after": 1,
+    "paused": true
+  }
+}

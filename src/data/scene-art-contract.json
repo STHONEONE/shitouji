@@ -1,0 +1,1506 @@
+{
+  "version": 1,
+  "sceneIntegrationComplete": false,
+  "scope": "全部现有场景及未来新场景，园路仍按原阶段关闭",
+  "layers": [
+    "ground",
+    "y",
+    "occluder"
+  ],
+  "origin": "bottom-center",
+  "requiredAssets": [
+    {
+      "id": "xiaoxiang-courtyard/ground",
+      "label": "纯地面／道路／草地／室内地板，无任何家具和直立物件",
+      "file": "assets/layered/xiaoxiang-courtyard/ground.png",
+      "layer": "ground",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ],
+      "size": [
+        1671,
+        941
+      ],
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "xiaoxiang-courtyard/flat-decoration",
+      "label": "地毯／落花／小草／平铺花草（独立透明地贴）",
+      "file": "assets/layered/xiaoxiang-courtyard/flat-decoration.png",
+      "layer": "ground",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ],
+      "size": [
+        1671,
+        941
+      ],
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "xiaoxiang-courtyard/main-house",
+      "label": "正房整体，含自带墙脚草，不带可行走地面",
+      "file": "assets/scenes/xiaoxiang/references/xiaoxiang-house.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-courtyard/wings",
+      "label": "两侧厢房，各自独立整栋透明图",
+      "file": "assets/layered/xiaoxiang-courtyard/wings.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-courtyard/stone-table",
+      "label": "石桌含茶具，不带石板地面",
+      "file": "assets/layered/xiaoxiang-courtyard/stone-table.png",
+      "layer": "y",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-courtyard/wall-gate",
+      "label": "横墙与门洞完整直立件，洞内透明不带路面；保留墙脚自带草",
+      "file": "assets/layered/xiaoxiang-courtyard/wall-gate.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-courtyard/wall-side",
+      "label": "左右延续墙，分别完整透明精灵",
+      "file": "assets/layered/xiaoxiang-courtyard/wall-side.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-courtyard/trees",
+      "label": "竹丛／桃树／柳树等，每株含原有脚下草整体导出，勿拆树冠",
+      "file": "assets/layered/xiaoxiang-courtyard/trees.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-courtyard/flowerbeds",
+      "label": "花坛整体，每个独立透明件",
+      "file": "assets/layered/xiaoxiang-courtyard/flowerbeds.png",
+      "layer": "y",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-courtyard/stone-lamps",
+      "label": "石灯，各自独立透明件",
+      "file": "assets/layered/xiaoxiang-courtyard/stone-lamps.png",
+      "layer": "y",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-courtyard/stools-benches",
+      "label": "石凳／长凳，各个独立透明件",
+      "file": "assets/layered/xiaoxiang-courtyard/stools-benches.png",
+      "layer": "y",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-courtyard/rocks",
+      "label": "山石，保留附着植被；高于人物归遮挡层",
+      "file": "assets/layered/xiaoxiang-courtyard/rocks.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-courtyard/pond",
+      "label": "池面、水光、贴地岸沿",
+      "file": "assets/layered/xiaoxiang-courtyard/pond.png",
+      "layer": "ground",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "xiaoxiang-courtyard/well",
+      "label": "井栏／辘轳整体，不带可行走地面",
+      "file": "assets/layered/xiaoxiang-courtyard/well.png",
+      "layer": "y",
+      "scenes": [
+        "xiaoxiang-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/ground",
+      "label": "纯地面／道路／草地／室内地板，无任何家具和直立物件",
+      "file": "assets/layered/xiaoxiang-indoor/ground.png",
+      "layer": "ground",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": [
+        1672,
+        941
+      ],
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "xiaoxiang-indoor/flat-decoration",
+      "label": "地毯／落花／小草／平铺花草（独立透明地贴）",
+      "file": "assets/layered/xiaoxiang-indoor/flat-decoration.png",
+      "layer": "ground",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": [
+        1672,
+        941
+      ],
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "xiaoxiang-indoor/wall-north",
+      "label": "北墙与窗（完整直立精灵）",
+      "file": "assets/layered/xiaoxiang-indoor/wall-north.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/wall-west",
+      "label": "西墙",
+      "file": "assets/layered/xiaoxiang-indoor/wall-west.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/wall-east",
+      "label": "东墙",
+      "file": "assets/layered/xiaoxiang-indoor/wall-east.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/wall-south-left",
+      "label": "入口左侧墙",
+      "file": "assets/layered/xiaoxiang-indoor/wall-south-left.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/wall-south-right",
+      "label": "入口右侧墙",
+      "file": "assets/layered/xiaoxiang-indoor/wall-south-right.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/door-left",
+      "label": "左门扇",
+      "file": "assets/layered/xiaoxiang-indoor/door-left.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/door-right",
+      "label": "右门扇",
+      "file": "assets/layered/xiaoxiang-indoor/door-right.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/bed",
+      "label": "原床榻（含床柱纱帐，不带木地板或地毯）",
+      "file": "assets/layered/xiaoxiang-indoor/bed.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/desk",
+      "label": "书案（含案上文房，不带地毯）",
+      "file": "assets/layered/xiaoxiang-indoor/desk.png",
+      "layer": "y",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/study-chair",
+      "label": "书椅",
+      "file": "assets/layered/xiaoxiang-indoor/study-chair.png",
+      "layer": "y",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/tea-table",
+      "label": "茶桌（含茶具，不带地毯和凳子）",
+      "file": "assets/layered/xiaoxiang-indoor/tea-table.png",
+      "layer": "y",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/tea-stools",
+      "label": "各只茶凳，分别导出，附坐面位置",
+      "file": "assets/layered/xiaoxiang-indoor/tea-stools.png",
+      "layer": "y",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/shelf",
+      "label": "书架／高柜",
+      "file": "assets/layered/xiaoxiang-indoor/shelf.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/screen",
+      "label": "屏风整体",
+      "file": "assets/layered/xiaoxiang-indoor/screen.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/planters",
+      "label": "盆栽／花瓶／水仙，按独立物件导出",
+      "file": "assets/layered/xiaoxiang-indoor/planters.png",
+      "layer": "y",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/lamps",
+      "label": "各盏宫灯，按独立物件导出",
+      "file": "assets/layered/xiaoxiang-indoor/lamps.png",
+      "layer": "y",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/scroll",
+      "label": "挂轴",
+      "file": "assets/layered/xiaoxiang-indoor/scroll.png",
+      "layer": "occluder",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/qin-table",
+      "label": "琴桌含古琴",
+      "file": "assets/layered/xiaoxiang-indoor/qin-table.png",
+      "layer": "y",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "xiaoxiang-indoor/qin-chair",
+      "label": "琴凳",
+      "file": "assets/layered/xiaoxiang-indoor/qin-chair.png",
+      "layer": "y",
+      "scenes": [
+        "xiaoxiang-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-courtyard/ground",
+      "label": "纯地面／道路／草地／室内地板，无任何家具和直立物件",
+      "file": "assets/layered/yihong-courtyard/ground.png",
+      "layer": "ground",
+      "scenes": [
+        "yihong-courtyard"
+      ],
+      "size": [
+        1672,
+        1545
+      ],
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "yihong-courtyard/flat-decoration",
+      "label": "地毯／落花／小草／平铺花草（独立透明地贴）",
+      "file": "assets/layered/yihong-courtyard/flat-decoration.png",
+      "layer": "ground",
+      "scenes": [
+        "yihong-courtyard"
+      ],
+      "size": [
+        1672,
+        1545
+      ],
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "yihong-courtyard/main-house",
+      "label": "正房整体，含自带墙脚草，不带可行走地面",
+      "file": "assets/scenes/yihong/references/yihong-house.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-courtyard/wings",
+      "label": "两侧厢房，各自独立整栋透明图",
+      "file": "assets/layered/yihong-courtyard/wings.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-courtyard/stone-table",
+      "label": "石桌含茶具，不带石板地面",
+      "file": "assets/layered/yihong-courtyard/stone-table.png",
+      "layer": "y",
+      "scenes": [
+        "yihong-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-courtyard/wall-gate",
+      "label": "横墙与门洞完整直立件，洞内透明不带路面；保留墙脚自带草",
+      "file": "assets/layered/yihong-courtyard/wall-gate.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-courtyard/wall-side",
+      "label": "左右延续墙，分别完整透明精灵",
+      "file": "assets/layered/yihong-courtyard/wall-side.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-courtyard/trees",
+      "label": "竹丛／桃树／柳树等，每株含原有脚下草整体导出，勿拆树冠",
+      "file": "assets/layered/yihong-courtyard/trees.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-courtyard/flowerbeds",
+      "label": "花坛整体，每个独立透明件",
+      "file": "assets/layered/yihong-courtyard/flowerbeds.png",
+      "layer": "y",
+      "scenes": [
+        "yihong-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-courtyard/stone-lamps",
+      "label": "石灯，各自独立透明件",
+      "file": "assets/layered/yihong-courtyard/stone-lamps.png",
+      "layer": "y",
+      "scenes": [
+        "yihong-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-courtyard/stools-benches",
+      "label": "石凳／长凳，各个独立透明件",
+      "file": "assets/layered/yihong-courtyard/stools-benches.png",
+      "layer": "y",
+      "scenes": [
+        "yihong-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-courtyard/rocks",
+      "label": "山石，保留附着植被；高于人物归遮挡层",
+      "file": "assets/layered/yihong-courtyard/rocks.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/ground",
+      "label": "纯地面／道路／草地／室内地板，无任何家具和直立物件",
+      "file": "assets/layered/yihong-indoor/ground.png",
+      "layer": "ground",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": [
+        1672,
+        941
+      ],
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "yihong-indoor/flat-decoration",
+      "label": "地毯／落花／小草／平铺花草（独立透明地贴）",
+      "file": "assets/layered/yihong-indoor/flat-decoration.png",
+      "layer": "ground",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": [
+        1672,
+        941
+      ],
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "yihong-indoor/wall-north",
+      "label": "北墙与窗（完整直立精灵）",
+      "file": "assets/layered/yihong-indoor/wall-north.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/wall-west",
+      "label": "西墙",
+      "file": "assets/layered/yihong-indoor/wall-west.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/wall-east",
+      "label": "东墙",
+      "file": "assets/layered/yihong-indoor/wall-east.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/wall-south-left",
+      "label": "入口左侧墙",
+      "file": "assets/layered/yihong-indoor/wall-south-left.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/wall-south-right",
+      "label": "入口右侧墙",
+      "file": "assets/layered/yihong-indoor/wall-south-right.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/door-left",
+      "label": "左门扇",
+      "file": "assets/layered/yihong-indoor/door-left.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/door-right",
+      "label": "右门扇",
+      "file": "assets/layered/yihong-indoor/door-right.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/bed",
+      "label": "原床榻（含床柱纱帐，不带木地板或地毯）",
+      "file": "assets/layered/yihong-indoor/bed.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/desk",
+      "label": "书案（含案上文房，不带地毯）",
+      "file": "assets/layered/yihong-indoor/desk.png",
+      "layer": "y",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/study-chair",
+      "label": "书椅",
+      "file": "assets/layered/yihong-indoor/study-chair.png",
+      "layer": "y",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/tea-table",
+      "label": "茶桌（含茶具，不带地毯和凳子）",
+      "file": "assets/layered/yihong-indoor/tea-table.png",
+      "layer": "y",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/tea-stools",
+      "label": "各只茶凳，分别导出，附坐面位置",
+      "file": "assets/layered/yihong-indoor/tea-stools.png",
+      "layer": "y",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/shelf",
+      "label": "书架／高柜",
+      "file": "assets/layered/yihong-indoor/shelf.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/screen",
+      "label": "屏风整体",
+      "file": "assets/layered/yihong-indoor/screen.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/planters",
+      "label": "盆栽／花瓶／水仙，按独立物件导出",
+      "file": "assets/layered/yihong-indoor/planters.png",
+      "layer": "y",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/lamps",
+      "label": "各盏宫灯，按独立物件导出",
+      "file": "assets/layered/yihong-indoor/lamps.png",
+      "layer": "y",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "yihong-indoor/scroll",
+      "label": "挂轴",
+      "file": "assets/layered/yihong-indoor/scroll.png",
+      "layer": "occluder",
+      "scenes": [
+        "yihong-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-courtyard/ground",
+      "label": "纯地面／道路／草地／室内地板，无任何家具和直立物件",
+      "file": "assets/layered/hengwu-courtyard/ground.png",
+      "layer": "ground",
+      "scenes": [
+        "hengwu-courtyard"
+      ],
+      "size": [
+        1672,
+        1545
+      ],
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "hengwu-courtyard/flat-decoration",
+      "label": "地毯／落花／小草／平铺花草（独立透明地贴）",
+      "file": "assets/layered/hengwu-courtyard/flat-decoration.png",
+      "layer": "ground",
+      "scenes": [
+        "hengwu-courtyard"
+      ],
+      "size": [
+        1672,
+        1545
+      ],
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "hengwu-courtyard/main-house",
+      "label": "正房整体，含自带墙脚草，不带可行走地面",
+      "file": "assets/scenes/hengwu/references/hengwu-house.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-courtyard/wings",
+      "label": "两侧厢房，各自独立整栋透明图",
+      "file": "assets/layered/hengwu-courtyard/wings.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-courtyard/stone-table",
+      "label": "石桌含茶具，不带石板地面",
+      "file": "assets/layered/hengwu-courtyard/stone-table.png",
+      "layer": "y",
+      "scenes": [
+        "hengwu-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-courtyard/wall-gate",
+      "label": "横墙与门洞完整直立件，洞内透明不带路面；保留墙脚自带草",
+      "file": "assets/layered/hengwu-courtyard/wall-gate.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-courtyard/wall-side",
+      "label": "左右延续墙，分别完整透明精灵",
+      "file": "assets/layered/hengwu-courtyard/wall-side.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-courtyard/trees",
+      "label": "竹丛／桃树／柳树等，每株含原有脚下草整体导出，勿拆树冠",
+      "file": "assets/layered/hengwu-courtyard/trees.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-courtyard/flowerbeds",
+      "label": "花坛整体，每个独立透明件",
+      "file": "assets/layered/hengwu-courtyard/flowerbeds.png",
+      "layer": "y",
+      "scenes": [
+        "hengwu-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-courtyard/stone-lamps",
+      "label": "石灯，各自独立透明件",
+      "file": "assets/layered/hengwu-courtyard/stone-lamps.png",
+      "layer": "y",
+      "scenes": [
+        "hengwu-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-courtyard/stools-benches",
+      "label": "石凳／长凳，各个独立透明件",
+      "file": "assets/layered/hengwu-courtyard/stools-benches.png",
+      "layer": "y",
+      "scenes": [
+        "hengwu-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-courtyard/rocks",
+      "label": "山石，保留附着植被；高于人物归遮挡层",
+      "file": "assets/layered/hengwu-courtyard/rocks.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-courtyard"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/ground",
+      "label": "纯地面／道路／草地／室内地板，无任何家具和直立物件",
+      "file": "assets/layered/hengwu-indoor/ground.png",
+      "layer": "ground",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": [
+        1672,
+        941
+      ],
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "hengwu-indoor/flat-decoration",
+      "label": "地毯／落花／小草／平铺花草（独立透明地贴）",
+      "file": "assets/layered/hengwu-indoor/flat-decoration.png",
+      "layer": "ground",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": [
+        1672,
+        941
+      ],
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "hengwu-indoor/wall-north",
+      "label": "北墙与窗（完整直立精灵）",
+      "file": "assets/layered/hengwu-indoor/wall-north.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/wall-west",
+      "label": "西墙",
+      "file": "assets/layered/hengwu-indoor/wall-west.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/wall-east",
+      "label": "东墙",
+      "file": "assets/layered/hengwu-indoor/wall-east.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/wall-south-left",
+      "label": "入口左侧墙",
+      "file": "assets/layered/hengwu-indoor/wall-south-left.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/wall-south-right",
+      "label": "入口右侧墙",
+      "file": "assets/layered/hengwu-indoor/wall-south-right.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/door-left",
+      "label": "左门扇",
+      "file": "assets/layered/hengwu-indoor/door-left.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/door-right",
+      "label": "右门扇",
+      "file": "assets/layered/hengwu-indoor/door-right.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/bed",
+      "label": "原床榻（含床柱纱帐，不带木地板或地毯）",
+      "file": "assets/layered/hengwu-indoor/bed.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/desk",
+      "label": "书案（含案上文房，不带地毯）",
+      "file": "assets/layered/hengwu-indoor/desk.png",
+      "layer": "y",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/study-chair",
+      "label": "书椅",
+      "file": "assets/layered/hengwu-indoor/study-chair.png",
+      "layer": "y",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/tea-table",
+      "label": "茶桌（含茶具，不带地毯和凳子）",
+      "file": "assets/layered/hengwu-indoor/tea-table.png",
+      "layer": "y",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/tea-stools",
+      "label": "各只茶凳，分别导出，附坐面位置",
+      "file": "assets/layered/hengwu-indoor/tea-stools.png",
+      "layer": "y",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/shelf",
+      "label": "书架／高柜",
+      "file": "assets/layered/hengwu-indoor/shelf.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/screen",
+      "label": "屏风整体",
+      "file": "assets/layered/hengwu-indoor/screen.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/planters",
+      "label": "盆栽／花瓶／水仙，按独立物件导出",
+      "file": "assets/layered/hengwu-indoor/planters.png",
+      "layer": "y",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/lamps",
+      "label": "各盏宫灯，按独立物件导出",
+      "file": "assets/layered/hengwu-indoor/lamps.png",
+      "layer": "y",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "hengwu-indoor/scroll",
+      "label": "挂轴",
+      "file": "assets/layered/hengwu-indoor/scroll.png",
+      "layer": "occluder",
+      "scenes": [
+        "hengwu-indoor"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "gate-main-road/ground",
+      "label": "纯地面／道路／草地／室内地板，无任何家具和直立物件",
+      "file": "assets/layered/gate-main-road/ground.png",
+      "layer": "ground",
+      "scenes": [
+        "gate-main-road"
+      ],
+      "size": [
+        960,
+        1580
+      ],
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "gate-main-road/flat-decoration",
+      "label": "地毯／落花／小草／平铺花草（独立透明地贴）",
+      "file": "assets/layered/gate-main-road/flat-decoration.png",
+      "layer": "ground",
+      "scenes": [
+        "gate-main-road"
+      ],
+      "size": [
+        960,
+        1580
+      ],
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": false
+    },
+    {
+      "id": "gate-main-road/wall-gate",
+      "label": "横墙与门洞完整直立件，洞内透明不带路面；保留墙脚自带草",
+      "file": "assets/layered/gate-main-road/wall-gate.png",
+      "layer": "occluder",
+      "scenes": [
+        "gate-main-road"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "gate-main-road/wall-side",
+      "label": "左右延续墙，分别完整透明精灵",
+      "file": "assets/layered/gate-main-road/wall-side.png",
+      "layer": "occluder",
+      "scenes": [
+        "gate-main-road"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "gate-main-road/trees",
+      "label": "竹丛／桃树／柳树等，每株含原有脚下草整体导出，勿拆树冠",
+      "file": "assets/layered/gate-main-road/trees.png",
+      "layer": "occluder",
+      "scenes": [
+        "gate-main-road"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "gate-main-road/flowerbeds",
+      "label": "花坛整体，每个独立透明件",
+      "file": "assets/layered/gate-main-road/flowerbeds.png",
+      "layer": "y",
+      "scenes": [
+        "gate-main-road"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "gate-main-road/stone-lamps",
+      "label": "石灯，各自独立透明件",
+      "file": "assets/layered/gate-main-road/stone-lamps.png",
+      "layer": "y",
+      "scenes": [
+        "gate-main-road"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "gate-main-road/stools-benches",
+      "label": "石凳／长凳，各个独立透明件",
+      "file": "assets/layered/gate-main-road/stools-benches.png",
+      "layer": "y",
+      "scenes": [
+        "gate-main-road"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    },
+    {
+      "id": "gate-main-road/rocks",
+      "label": "山石，保留附着植被；高于人物归遮挡层",
+      "file": "assets/layered/gate-main-road/rocks.png",
+      "layer": "occluder",
+      "scenes": [
+        "gate-main-road"
+      ],
+      "size": null,
+      "reviewed": false,
+      "origin": "bottom-center",
+      "requireTransparency": true
+    }
+  ],
+  "legacyReferences": [
+    {
+      "scene": "xiaoxiang-courtyard",
+      "name": "潇湘馆庭院",
+      "file": "assets/scenes/xiaoxiang/references/xiaoxiang-courtyard-wide.png",
+      "mapSize": [
+        1671,
+        941
+      ]
+    },
+    {
+      "scene": "xiaoxiang-indoor",
+      "name": "潇湘馆内室",
+      "file": "assets/scenes/xiaoxiang/references/xiaoxiang-indoor-wide.png",
+      "mapSize": [
+        1672,
+        941
+      ]
+    },
+    {
+      "scene": "yihong-courtyard",
+      "name": "怡红院庭院",
+      "file": "assets/scenes/yihong/references/yihong-courtyard.png",
+      "mapSize": [
+        1672,
+        1545
+      ]
+    },
+    {
+      "scene": "yihong-indoor",
+      "name": "怡红院内室",
+      "file": "assets/scenes/yihong/references/yihong-indoor.png",
+      "mapSize": [
+        1672,
+        941
+      ]
+    },
+    {
+      "scene": "hengwu-courtyard",
+      "name": "蘅芜苑庭院",
+      "file": "assets/scenes/hengwu/references/hengwu-courtyard.png",
+      "mapSize": [
+        1672,
+        1545
+      ]
+    },
+    {
+      "scene": "hengwu-indoor",
+      "name": "蘅芜苑内室",
+      "file": "assets/scenes/hengwu/references/hengwu-indoor.png",
+      "mapSize": [
+        1672,
+        941
+      ]
+    },
+    {
+      "scene": "gate-main-road",
+      "name": "正门与主路（现有关闭区域，仅整改素材，不开放园路）",
+      "file": "assets/scenes/xiaoxiang/references/xiaoxiang-moon-wall-source.png",
+      "mapSize": [
+        960,
+        1580
+      ]
+    }
+  ],
+  "rules": [
+    "先验证 Alpha、再分类、再摆放。分类不明不接入。",
+    "地面不参加 Y 排序，人物脚不能被地贴覆盖。",
+    "直立精灵以基座底部排序；完整树和完整墙不得拆成树冠／树干排序。",
+    "视觉遮挡与小型脚底碰撞分别配置。",
+    "不透明成图只作参考，不再作为可排序物件、遮挡裁片或可发布地面。",
+    "同一类有多个物件时，每个独立文件与 placement；本清单是交付族，不可把数只凳子拼成一个精灵。"
+  ]
+}

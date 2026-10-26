@@ -1,0 +1,1025 @@
+{
+  "scene": "xiaoxiang-indoor",
+  "version": 1,
+  "world": [
+    1672,
+    941
+  ],
+  "renderer": "SceneLayers",
+  "assets": {
+    "xiao-layer-floor": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/floor.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    "xiao-layer-rug": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/rug.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    "xiao-layer-wall-north": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-north.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    "xiao-layer-wall-west": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-west.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    "xiao-layer-wall-east": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-east.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    "xiao-layer-wall-south-left": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-south-left.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    "xiao-layer-wall-south-right": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/wall-south-right.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    "xiao-layer-bed": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/bed.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        332,
+        279
+      ]
+    },
+    "xiao-layer-shelf": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/shelf.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        202,
+        193
+      ]
+    },
+    "xiao-layer-screen": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/screen.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1086,
+        1448
+      ]
+    },
+    "xiao-layer-desk": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/desk.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    "xiao-layer-study-chair": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/study-chair.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    "xiao-layer-qin": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/qin-table.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    "xiao-layer-qin-chair": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/qin-stool.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    "xiao-layer-tea": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/tea-table.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    "xiao-layer-tea-stool-west": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/tea-stool.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    "xiao-layer-tea-stool-east": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/tea-stool.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    "xiao-layer-tea-stool-south": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/tea-stool.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    "xiao-layer-tea-chair-north": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/tea-chair-north.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        64,
+        75
+      ]
+    },
+    "xiao-layer-lamp-entry": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/floor-lamp.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        48,
+        152
+      ]
+    },
+    "xiao-layer-lamp-east": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/floor-lamp.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        48,
+        152
+      ]
+    },
+    "xiao-layer-vase": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/qin-planter.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        46,
+        68
+      ]
+    },
+    "xiao-layer-narcissus": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/qin-planter.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        46,
+        68
+      ]
+    },
+    "xiao-layer-bedside-planter": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/qin-planter.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        46,
+        68
+      ]
+    },
+    "xiao-layer-door-left": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/door-left.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        59,
+        139
+      ]
+    },
+    "xiao-layer-door-right": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/door-right.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        52,
+        144
+      ]
+    },
+    "xiao-layer-scroll": {
+      "file": "assets/scenes/shared/spring-objects.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    "xiao-layer-restored-decor": {
+      "file": "assets/scenes/xiaoxiang/indoor/textures/decor-atlas.png",
+      "hasAlpha": true,
+      "hasTransparency": true,
+      "validation": "approved",
+      "size": [
+        1536,
+        1024
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "floor",
+      "asset": "xiao-layer-floor",
+      "layer": "ground",
+      "x": 836,
+      "baseY": 941,
+      "width": 1672,
+      "height": 941.0,
+      "frame": [
+        0,
+        0,
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "rug",
+      "asset": "xiao-layer-rug",
+      "layer": "ground",
+      "x": 1065,
+      "baseY": 660,
+      "width": 500,
+      "height": 286.513,
+      "frame": [
+        53,
+        161,
+        1342,
+        769
+      ]
+    },
+    {
+      "id": "wall-north",
+      "asset": "xiao-layer-wall-north",
+      "layer": "occluder",
+      "x": 836,
+      "baseY": 246,
+      "width": 1672,
+      "height": 246,
+      "frame": [
+        0,
+        0,
+        1672,
+        246
+      ]
+    },
+    {
+      "id": "wall-west",
+      "asset": "xiao-layer-wall-west",
+      "layer": "occluder",
+      "x": 76,
+      "baseY": 708,
+      "width": 150,
+      "height": 699.742,
+      "frame": [
+        3,
+        6,
+        194,
+        905
+      ]
+    },
+    {
+      "id": "wall-east",
+      "asset": "xiao-layer-wall-east",
+      "layer": "occluder",
+      "x": 1583,
+      "baseY": 708,
+      "width": 178,
+      "height": 644.259,
+      "frame": [
+        1425,
+        11,
+        247,
+        894
+      ]
+    },
+    {
+      "id": "wall-south-left",
+      "asset": "xiao-layer-wall-south-left",
+      "layer": "occluder",
+      "x": 335,
+      "baseY": 898,
+      "width": 650,
+      "height": 198.318,
+      "frame": [
+        27,
+        660,
+        862,
+        263
+      ]
+    },
+    {
+      "id": "wall-south-right",
+      "asset": "xiao-layer-wall-south-right",
+      "layer": "occluder",
+      "x": 1336,
+      "baseY": 898,
+      "width": 650,
+      "height": 209.42,
+      "frame": [
+        764,
+        616,
+        897,
+        289
+      ]
+    },
+    {
+      "id": "bed",
+      "asset": "xiao-layer-bed",
+      "layer": "occluder",
+      "x": 350,
+      "baseY": 369,
+      "width": 332,
+      "height": 279.0,
+      "frame": [
+        0,
+        0,
+        332,
+        279
+      ]
+    },
+    {
+      "id": "shelf",
+      "asset": "xiao-layer-shelf",
+      "layer": "occluder",
+      "x": 1178,
+      "baseY": 294,
+      "width": 202,
+      "height": 193.0,
+      "frame": [
+        0,
+        0,
+        202,
+        193
+      ]
+    },
+    {
+      "id": "screen",
+      "asset": "xiao-layer-screen",
+      "layer": "occluder",
+      "x": 1462,
+      "baseY": 579,
+      "width": 246,
+      "height": 319.377,
+      "frame": [
+        26,
+        48,
+        1046,
+        1358
+      ]
+    },
+    {
+      "id": "desk",
+      "asset": "xiao-layer-desk",
+      "layer": "y",
+      "x": 1059,
+      "baseY": 599,
+      "width": 304,
+      "height": 191.146,
+      "frame": [
+        79,
+        129,
+        1293,
+        813
+      ]
+    },
+    {
+      "id": "study-chair",
+      "asset": "xiao-layer-study-chair",
+      "layer": "y",
+      "x": 1047,
+      "baseY": 454,
+      "width": 62,
+      "height": 86.324,
+      "frame": [
+        263,
+        119,
+        729,
+        1015
+      ]
+    },
+    {
+      "id": "qin",
+      "asset": "xiao-layer-qin",
+      "layer": "y",
+      "x": 882,
+      "baseY": 333,
+      "width": 252,
+      "height": 99.434,
+      "frame": [
+        60,
+        321,
+        1328,
+        524
+      ]
+    },
+    {
+      "id": "qin-chair",
+      "asset": "xiao-layer-qin-chair",
+      "layer": "y",
+      "x": 929,
+      "baseY": 366,
+      "width": 48,
+      "height": 44.333,
+      "frame": [
+        267,
+        320,
+        720,
+        665
+      ]
+    },
+    {
+      "id": "tea",
+      "asset": "xiao-layer-tea",
+      "layer": "y",
+      "x": 359,
+      "baseY": 602,
+      "width": 174,
+      "height": 184.999,
+      "frame": [
+        148,
+        131,
+        965,
+        1026
+      ]
+    },
+    {
+      "id": "tea-stool-west",
+      "asset": "xiao-layer-tea-stool-west",
+      "layer": "y",
+      "x": 234,
+      "baseY": 596,
+      "width": 50,
+      "height": 50.127,
+      "frame": [
+        233,
+        233,
+        787,
+        789
+      ]
+    },
+    {
+      "id": "tea-stool-east",
+      "asset": "xiao-layer-tea-stool-east",
+      "layer": "y",
+      "x": 481,
+      "baseY": 598,
+      "width": 50,
+      "height": 50.127,
+      "frame": [
+        233,
+        233,
+        787,
+        789
+      ]
+    },
+    {
+      "id": "tea-stool-south",
+      "asset": "xiao-layer-tea-stool-south",
+      "layer": "y",
+      "x": 345,
+      "baseY": 666,
+      "width": 50,
+      "height": 50.127,
+      "frame": [
+        233,
+        233,
+        787,
+        789
+      ]
+    },
+    {
+      "id": "tea-chair-north",
+      "asset": "xiao-layer-tea-chair-north",
+      "layer": "y",
+      "x": 353,
+      "baseY": 485,
+      "width": 55,
+      "height": 64.453,
+      "frame": [
+        0,
+        0,
+        64,
+        75
+      ]
+    },
+    {
+      "id": "lamp-entry",
+      "asset": "xiao-layer-lamp-entry",
+      "layer": "y",
+      "x": 584,
+      "baseY": 708,
+      "width": 48,
+      "height": 152.0,
+      "frame": [
+        0,
+        0,
+        48,
+        152
+      ]
+    },
+    {
+      "id": "lamp-east",
+      "asset": "xiao-layer-lamp-east",
+      "layer": "y",
+      "x": 1546,
+      "baseY": 369,
+      "width": 43,
+      "height": 136.167,
+      "frame": [
+        0,
+        0,
+        48,
+        152
+      ]
+    },
+    {
+      "id": "narcissus",
+      "asset": "xiao-layer-scroll",
+      "layer": "y",
+      "x": 702,
+      "baseY": 289,
+      "width": 48,
+      "height": 40.615,
+      "frame": [
+        90,
+        729,
+        468,
+        396
+      ]
+    },
+    {
+      "id": "door-left",
+      "asset": "xiao-layer-door-left",
+      "layer": "occluder",
+      "x": 692,
+      "baseY": 843,
+      "width": 59,
+      "height": 139.0,
+      "frame": [
+        0,
+        0,
+        59,
+        139
+      ]
+    },
+    {
+      "id": "door-right",
+      "asset": "xiao-layer-door-right",
+      "layer": "occluder",
+      "x": 980,
+      "baseY": 843,
+      "width": 52,
+      "height": 144.0,
+      "frame": [
+        0,
+        0,
+        52,
+        144
+      ]
+    },
+    {
+      "id": "scroll",
+      "asset": "xiao-layer-scroll",
+      "layer": "occluder",
+      "x": 1410,
+      "baseY": 282,
+      "width": 65,
+      "height": 163.971,
+      "frame": [
+        826,
+        39,
+        243,
+        613
+      ]
+    },
+    {
+      "id": "bedside-cabinet",
+      "asset": "xiao-layer-restored-decor",
+      "layer": "y",
+      "x": 570,
+      "baseY": 380,
+      "width": 88,
+      "height": 122.238,
+      "frame": [
+        41,
+        66,
+        311,
+        432
+      ],
+      "restored": true,
+      "baseBody": [
+        542,
+        353,
+        56,
+        27
+      ],
+      "hotspot": {
+        "key": "bedside-cabinet",
+        "rect": [
+          542,
+          353,
+          56,
+          27
+        ],
+        "label": "看看床边矮柜",
+        "text": "矮柜守在纱帐旁，常翻的书叠在手边。瓶里的花枝疏疏，醒来时便能看见。"
+      }
+    },
+    {
+      "id": "north-console",
+      "asset": "xiao-layer-restored-decor",
+      "layer": "y",
+      "x": 645,
+      "baseY": 315,
+      "width": 120,
+      "height": 83.702,
+      "frame": [
+        414,
+        195,
+        443,
+        309
+      ],
+      "restored": true,
+      "baseBody": [
+        600,
+        297,
+        90,
+        18
+      ],
+      "hotspot": {
+        "key": "north-console",
+        "rect": [
+          600,
+          297,
+          90,
+          18
+        ],
+        "label": "看看供几与香炉",
+        "text": "窄几上放着收好的卷轴，小香炉留着一点清气。书不必急着读完，香也只静静地燃着。"
+      }
+    },
+    {
+      "id": "flower-stand",
+      "asset": "xiao-layer-restored-decor",
+      "layer": "y",
+      "x": 135,
+      "baseY": 526,
+      "width": 62,
+      "height": 135.714,
+      "frame": [
+        920,
+        31,
+        217,
+        475
+      ],
+      "restored": true,
+      "baseBody": [
+        117,
+        512,
+        36,
+        14
+      ],
+      "hotspot": {
+        "key": "flower-stand",
+        "rect": [
+          117,
+          512,
+          36,
+          14
+        ],
+        "label": "看看花几",
+        "text": "青花瓶安在小几上，几枝浅红映着窗光。它们不说话，这一角却显得有人照料。"
+      }
+    },
+    {
+      "id": "bed-step",
+      "asset": "xiao-layer-restored-decor",
+      "layer": "y",
+      "x": 145,
+      "baseY": 393,
+      "width": 48,
+      "height": 43.273,
+      "frame": [
+        1236,
+        262,
+        264,
+        238
+      ],
+      "restored": true,
+      "baseBody": [
+        130,
+        379,
+        30,
+        14
+      ],
+      "hotspot": {
+        "key": "bed-step",
+        "rect": [
+          130,
+          379,
+          30,
+          14
+        ],
+        "label": "看看床边小凳",
+        "text": "小凳垫着素色绣面，安安稳稳留在床边。夜里起身，脚下也有一处妥帖。"
+      }
+    },
+    {
+      "id": "bonsai-entry-left",
+      "asset": "xiao-layer-restored-decor",
+      "layer": "y",
+      "x": 660,
+      "baseY": 696,
+      "width": 80,
+      "height": 110.545,
+      "frame": [
+        66,
+        595,
+        275,
+        380
+      ],
+      "restored": true,
+      "baseBody": [
+        635,
+        679,
+        50,
+        17
+      ],
+      "hotspot": {
+        "key": "bonsai-entry-left",
+        "rect": [
+          635,
+          679,
+          50,
+          17
+        ],
+        "label": "看看入口盆景",
+        "text": "浅盆里一株小树，枝叶疏密自有分寸。进门时看一眼，外头的纷扰便轻了些。"
+      }
+    },
+    {
+      "id": "bonsai-entry-right",
+      "asset": "xiao-layer-restored-decor",
+      "layer": "y",
+      "x": 1265,
+      "baseY": 694,
+      "width": 76,
+      "height": 105.018,
+      "frame": [
+        66,
+        595,
+        275,
+        380
+      ],
+      "restored": true,
+      "baseBody": [
+        1242,
+        678,
+        46,
+        16
+      ],
+      "hotspot": {
+        "key": "bonsai-entry-right",
+        "rect": [
+          1242,
+          678,
+          46,
+          16
+        ],
+        "label": "看看陈设角盆景",
+        "text": "山石与青苔收在小小一盆里。枝梢向着光，屋里便也留住了一点庭院的意思。"
+      }
+    },
+    {
+      "id": "vase",
+      "asset": "xiao-layer-restored-decor",
+      "layer": "y",
+      "x": 1535,
+      "baseY": 652,
+      "width": 82,
+      "height": 138.136,
+      "frame": [
+        473,
+        526,
+        279,
+        470
+      ],
+      "restored": true,
+      "baseBody": [
+        1512,
+        632,
+        46,
+        20
+      ],
+      "hotspot": {
+        "key": "vase",
+        "rect": [
+          1512,
+          632,
+          46,
+          20
+        ],
+        "label": "看看竹枝插瓶",
+        "text": "青花瓶和木几重新安在屏风旁，竹枝斜斜伸开。风声在窗外，清意却像留在了室内。"
+      }
+    },
+    {
+      "id": "scroll-chest",
+      "asset": "xiao-layer-restored-decor",
+      "layer": "y",
+      "x": 1318,
+      "baseY": 314,
+      "width": 104,
+      "height": 62.155,
+      "frame": [
+        1079,
+        734,
+        425,
+        254
+      ],
+      "restored": true,
+      "baseBody": [
+        1280,
+        292,
+        76,
+        22
+      ],
+      "hotspot": {
+        "key": "scroll-chest",
+        "rect": [
+          1280,
+          292,
+          76,
+          22
+        ],
+        "label": "看看卷轴书匣",
+        "text": "匣上书册与卷轴收得整齐，系带还松松留着。今日想读哪一卷，随手展开便是。"
+      }
+    },
+    {
+      "id": "screen-entry",
+      "asset": "xiao-layer-screen",
+      "layer": "occluder",
+      "x": 1390,
+      "baseY": 702,
+      "width": 142,
+      "height": 184.356,
+      "frame": [
+        26,
+        48,
+        1046,
+        1358
+      ],
+      "restored": true,
+      "hotspot": {
+        "key": "screen-entry",
+        "rect": [
+          1319,
+          626,
+          142,
+          76
+        ],
+        "label": "看看入口屏风",
+        "text": "入口这一扇屏风稍稍折起，隔住穿堂的风，却不挡来往的路。花影与竹影，仍可从两边望见。"
+      },
+      "baseBodies": [
+        [
+          1320,
+          621,
+          25,
+          14
+        ],
+        [
+          1355,
+          644,
+          24,
+          14
+        ],
+        [
+          1387,
+          667,
+          24,
+          14
+        ],
+        [
+          1420,
+          690,
+          35,
+          12
+        ]
+      ]
+    },
+    {
+      "id": "lamp-entry-right",
+      "asset": "xiao-layer-lamp-entry",
+      "layer": "y",
+      "x": 1200,
+      "baseY": 703,
+      "width": 43,
+      "height": 136.167,
+      "frame": [
+        0,
+        0,
+        48,
+        152
+      ],
+      "restored": true,
+      "baseBody": [
+        1189,
+        682,
+        22,
+        21
+      ],
+      "hotspot": {
+        "key": "lamp-entry-right",
+        "rect": [
+          1189,
+          682,
+          22,
+          21
+        ],
+        "label": "看看入口宫灯",
+        "text": "陈设角留着一盏宫灯，暖光隔着屏风透过来。夜里回房，也认得这条熟悉的路。"
+      }
+    }
+  ],
+  "otherScenes": "unchanged_legacy_pending_layer_conversion",
+  "review": {
+    "scope": "xiaoxiang-indoor-only",
+    "note": "采用透明独立物件；入口墙以等比尺寸对位；其余住所尚未转换",
+    "browserChecks": "Chrome desktop: movement connectivity, 12 side interactions, rest and seating, save reload, real pixel occlusion; see work/layered-room-qa.json",
+    "restoration": "Restore secondary furnishings from room overview 09 and original catalogues 02/06; individual Alpha sprites and footprint interactions."
+  }
+}

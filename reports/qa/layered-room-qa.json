@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "renderer": "SceneLayers",
+  "visual": {
+    "onRug": 195,
+    "inFrontOfTea": 163,
+    "behindTea": 63,
+    "behindBed": 0
+  },
+  "bedWalk": {
+    "x": 350,
+    "y": 372.36509999999987,
+    "valid": true
+  },
+  "errors": [],
+  "browser": "Chrome desktop; Browser plugin not available",
+  "scope": "Xiaoxiang interior only"
+}

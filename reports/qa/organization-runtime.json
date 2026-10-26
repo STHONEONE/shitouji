@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "platform": "desktop Chrome",
+  "source": "file:///D:/AIcoding/red%20dream/outputs/%E6%BD%87%E6%B9%98%E9%A6%86-%E5%BA%AD%E9%99%A2%E4%B8%8E%E5%86%85%E5%AE%A4-%E6%A8%A1%E5%9D%9703.html",
+  "restored": {
+    "day": 6,
+    "slot": 4,
+    "notes": true,
+    "readings": 1,
+    "people": 10
+  },
+  "images": 60,
+  "scenes": [
+    {
+      "home": "xiaoxiang",
+      "scene": "courtyard",
+      "walked": 28.304399999999305,
+      "valid": true
+    },
+    {
+      "home": "xiaoxiang",
+      "scene": "indoor",
+      "walked": 27.459800000000087,
+      "valid": true
+    },
+    {
+      "home": "yihong",
+      "scene": "courtyard",
+      "walked": 28.32500000000016,
+      "valid": true
+    },
+    {
+      "home": "yihong",
+      "scene": "indoor",
+      "walked": 29.169600000000173,
+      "valid": true
+    },
+    {
+      "home": "hengwu",
+      "scene": "courtyard",
+      "walked": 27.686399999999992,
+      "valid": true
+    },
+    {
+      "home": "hengwu",
+      "scene": "indoor",
+      "walked": 29.1593000000002,
+      "valid": true
+    }
+  ],
+  "audio": {
+    "state": "running",
+    "sampleRate": 48000,
+    "voices": 28,
+    "activities": 0,
+    "completed": true
+  },
+  "errors": [],
+  "failedRequests": []
+}

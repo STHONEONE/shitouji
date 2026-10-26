@@ -1,0 +1,95 @@
+{
+  "passed": true,
+  "owners": true,
+  "schedules": [
+    {
+      "id": "baoyu",
+      "count": 360,
+      "first": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "baochai",
+      "count": 360,
+      "first": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "xiren",
+      "count": 360,
+      "first": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "xiangyun",
+      "count": 150,
+      "first": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "tanchun",
+      "count": 30,
+      "first": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "xichun",
+      "count": 30,
+      "first": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": "xifeng",
+      "count": 6,
+      "first": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": "miaoyu",
+      "count": 6,
+      "first": [
+        2,
+        7
+      ]
+    },
+    {
+      "id": "jiamu",
+      "count": 5,
+      "first": [
+        6,
+        4
+      ]
+    },
+    {
+      "id": "wangfuren",
+      "count": 5,
+      "first": [
+        3,
+        5
+      ]
+    }
+  ],
+  "storyCount": 20,
+  "saveReload": {
+    "readings": 20,
+    "people": 10,
+    "player": "xiaoxiang",
+    "notes": 20
+  },
+  "absentReading": true,
+  "errors": []
+}
