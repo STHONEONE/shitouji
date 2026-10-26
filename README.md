@@ -1,5 +1,7 @@
 # 石头记
 
+开发中，当前为阶段性实现；公开仓库用于保存项目和继续协作。
+
 林黛玉视角的春日庭院游戏，当前包含潇湘馆、怡红院、蘅芜苑的庭院与内室，以及10位NPC的往来、对话和原著片段。
 
 公开仓库：[STHONEONE/shitouji](https://github.com/STHONEONE/shitouji)。GitHub未保留纯中文仓库名，采用`shitouji`；项目中文名称为《石头记》。

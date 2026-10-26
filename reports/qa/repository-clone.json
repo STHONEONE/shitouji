@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "tested_commit": "9e1fb63bb655245029a56e69c2d04dd12cd5f1b6",
+  "tracked_files": 427,
+  "git_index_matches": true,
+  "missing": [],
+  "lfs_entity_bytes": 116623864,
+  "lfs_entity_sha256": "8e61fd9bda65625b25ac7a420e379d56273fcbf43750a1c96c917f6a60bad998",
+  "lfs_matches_local": true
+}
